@@ -11,3 +11,8 @@
 根据[Document Foundation](https://wiki.documentfoundation.org/Libreoffice_and_subversion)给的版本管理wiki,所有要翻译的文件都已经转为fodt格式，以便基于文本的VCS管理。
 
 和[fsfs-zh](https://github.com/beijinglug/fsfs-zh)一样，建议译者先开一个issue说明要翻译哪部分，提交时使用pull request的方式。
+
+#### 字体
+
+翻译作品使用的中文字体暂时定为Droid Sans Fallback.
+
