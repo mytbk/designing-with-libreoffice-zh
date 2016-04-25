@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-03-19T14:42:13.184357598</meta:creation-date><meta:editing-duration>PT51M13S</meta:editing-duration><meta:editing-cycles>13</meta:editing-cycles><meta:generator>LibreOffice/5.0.5.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2016-04-23T09:38:13.842298013</dc:date><meta:document-statistic meta:table-count="4" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="63" meta:word-count="1791" meta:character-count="8508" meta:non-whitespace-character-count="7286"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="../../../.config/libreoffice/4/user/template/designing-with-libreoffice.ott" meta:date="2016-03-19T14:42:56.886663639"/></office:meta>
+ <office:meta><meta:creation-date>2016-03-19T14:42:13.184357598</meta:creation-date><meta:editing-duration>PT1H5M51S</meta:editing-duration><meta:editing-cycles>16</meta:editing-cycles><meta:generator>LibreOffice/5.0.5.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2016-04-25T10:43:57.306303802</dc:date><meta:document-statistic meta:table-count="4" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="63" meta:word-count="1940" meta:character-count="7624" meta:non-whitespace-character-count="6622"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="../../../.config/libreoffice/4/user/template/designing-with-libreoffice.ott" meta:date="2016-03-19T14:42:56.886663639"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">18147</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">30379</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">28501</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">12626</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">12628</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9428</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">76828</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10599</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">37091</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">18147</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">30379</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">28499</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">30771</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">43005</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">30654674</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">30983527</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -122,7 +122,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -8885,59 +8887,65 @@
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="01d28be1"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="01d3c0d2"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Droid Sans Fallback" officeooo:rsid="00ae2ddb" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="01d5ec1c"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="00dc3eb2" officeooo:paragraph-rsid="01098436"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="00dc3eb2" officeooo:paragraph-rsid="01cb4fc0"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:font-size="19.5pt" officeooo:paragraph-rsid="01ca6e89" style:font-size-asian="19.5pt" style:font-size-complex="19.5pt"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Bulleted">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Bulleted">
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto" style:writing-mode="page"/>
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00536bad" officeooo:paragraph-rsid="01ca6e89"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="14pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="01d3c0d2"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="14pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="14pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:font-size="19.5pt" officeooo:paragraph-rsid="01ca6e89" style:font-size-asian="19.5pt" style:font-size-complex="19.5pt"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Bulleted">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Bulleted">
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="00dc3eb2" officeooo:paragraph-rsid="01098436"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="00dc3eb2" officeooo:paragraph-rsid="01cb4fc0"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00536bad" officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="Right_20_Page">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="Right_20_Page">
    <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto" style:writing-mode="page"/>
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
@@ -9083,45 +9091,54 @@
    <style:text-properties officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties style:font-name-asian="Droid Sans Mono"/>
-  </style:style>
-  <style:style style:name="T49" style:family="text">
-   <style:text-properties officeooo:rsid="01d0c2d2" style:font-name-asian="Droid Sans Mono"/>
-  </style:style>
-  <style:style style:name="T50" style:family="text">
-   <style:text-properties officeooo:rsid="01d0c2d2"/>
-  </style:style>
-  <style:style style:name="T51" style:family="text">
-   <style:text-properties officeooo:rsid="01d28be1"/>
-  </style:style>
-  <style:style style:name="T52" style:family="text">
-   <style:text-properties style:font-name="Droid Sans Fallback" style:font-name-asian="Droid Sans Fallback"/>
-  </style:style>
-  <style:style style:name="T53" style:family="text">
-   <style:text-properties style:font-name="Droid Sans Fallback" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
-  </style:style>
-  <style:style style:name="T54" style:family="text">
-   <style:text-properties style:font-name="Fanwood" style:font-name-asian="Droid Sans Fallback"/>
-  </style:style>
-  <style:style style:name="T55" style:family="text">
-   <style:text-properties style:font-name="Fanwood" fo:font-size="12pt" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
-  </style:style>
-  <style:style style:name="T56" style:family="text">
-   <style:text-properties style:font-name="fanwood" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
-  </style:style>
-  <style:style style:name="T57" style:family="text">
-   <style:text-properties style:font-name-asian="Droid Sans Fallback"/>
-  </style:style>
-  <style:style style:name="T58" style:family="text">
    <style:text-properties officeooo:rsid="01d3c0d2" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties officeooo:rsid="00c7fd0f" style:font-name-asian="Droid Sans Fallback"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties officeooo:rsid="00a9de57" style:font-name-asian="Droid Sans Fallback"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties officeooo:rsid="01d79697" style:font-name-asian="Droid Sans Fallback"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties style:font-name-asian="Droid Sans Mono"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties officeooo:rsid="01d0c2d2" style:font-name-asian="Droid Sans Mono"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties officeooo:rsid="01d0c2d2"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties officeooo:rsid="01d28be1"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties style:font-name="Droid Sans Fallback" style:font-name-asian="Droid Sans Fallback"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties style:font-name="Droid Sans Fallback" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties style:font-name="Droid Sans Fallback" officeooo:rsid="00ae2ddb" style:font-name-asian="Droid Sans Fallback"/>
+  </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties officeooo:rsid="01d3c0d2"/>
+   <style:text-properties style:font-name="Fanwood" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
+   <style:text-properties style:font-name="Fanwood" fo:font-size="12pt" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
+   <style:text-properties style:font-name="fanwood" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties officeooo:rsid="01d3c0d2"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
    <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="01d3c0d2" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
   </style:style>
   <style:page-layout style:name="pm1" style:page-usage="mirrored">
@@ -9255,7 +9272,7 @@
        <text:p text:style-name="Footer_20_left"><text:chapter text:display="name" text:outline-level="1">简介</text:chapter></text:p>
       </table:table-cell>
       <table:table-cell office:value-type="string">
-       <text:p text:style-name="P11"><text:page-number text:select-page="current">9</text:page-number>.</text:p>
+       <text:p text:style-name="P11"><text:page-number text:select-page="current">7</text:page-number>.</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table>
@@ -9281,74 +9298,74 @@
    <text:user-field-decls>
     <text:user-field-decl office:value-type="float" office:value="0" text:name="MD"/>
    </text:user-field-decls>
-   <text:p text:style-name="P42">1</text:p>
-   <text:h text:style-name="P33" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc139235_1425529747"/>简介<text:bookmark-end text:name="__RefHeading___Toc139235_1425529747"/></text:h>
+   <text:p text:style-name="P44">1</text:p>
+   <text:h text:style-name="P36" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc139235_1425529747"/>简介<text:bookmark-end text:name="__RefHeading___Toc139235_1425529747"/></text:h>
    <text:p text:style-name="P21"><text:span text:style-name="T44">Office</text:span><text:span text:style-name="T46">套件有着和个人电脑一样长的历史。但是，在三十多年之后，很少人学会了怎样使用它们。</text:span></text:p>
-   <text:p text:style-name="P23">哦，我们已经学会了怎样在里面完成工作。我们大多能够，勉强地，格式化一篇文档并把它打印出来。但我们没学到的<text:span text:style-name="T50">是</text:span>，利用所有我们可以得到的工具，高效地执行这些任务。</text:p>
+   <text:p text:style-name="P23">哦，我们已经学会了怎样在里面完成工作。我们大多能够，勉强地，格式化一篇文档并把它打印出来。但我们没学到的<text:span text:style-name="T54">是</text:span>，利用所有我们可以得到的工具，高效地执行这些任务。</text:p>
    <text:p text:style-name="P24"><text:span text:style-name="T45">就像我们已经学会了足够多关于汽车下坡和平地滑行的知识，但从来没学会点火一样。虽然我们做完了事情，但是，我们付出了额外的功夫，也没有应有的效率。一些任务，比如走上坡路，也是可能做到的，只是因为我们的无知，我们没有想象出来。</text:span> </text:p>
    <text:p text:style-name="P21"><text:span text:style-name="T45">把任何</text:span><text:span text:style-name="T47">office套件的全部潜力用出来，意味着知道怎样设计你的文档——而九成的设计是知道怎样用样式和模板。知道怎样用样式和模板就等同于拿到了滑行中的车子的钥匙，并看到了油门——突然间，你就能控制这辆车，而不是用笨拙的代用品勉强应付。</text:span></text:p>
-   <text:p text:style-name="P34"><text:span text:style-name="T53">这对</text:span><text:span text:style-name="T54">LibreOffice</text:span><text:span text:style-name="T52">来说</text:span><text:span text:style-name="T53">尤其的正确。它的</text:span><text:span text:style-name="T55">Writer</text:span><text:span text:style-name="T53">字处理程序是特别地用样式的概念来构造的。不只是</text:span>Writer<text:span text:style-name="T45">比其他字处理程序有更多种样式，很多高级特性，如目录和主文档</text:span><text:span text:style-name="T58">(master documents)</text:span><text:span text:style-name="T61">，</text:span><text:span text:style-name="T60">如</text:span><text:span text:style-name="T45">果没有样式，你就需要花费更多的精力去使用它们。在花费了搭建样式的时间之后，你会更愿意</text:span><text:soft-page-break/><text:span text:style-name="T45">不在你的下篇文档中再从头做重复的工作，所以模板也就成为了你工作流程的一部分。</text:span></text:p>
-   <text:p text:style-name="P34">LibreOffice<text:span text:style-name="T45">和</text:span><text:span text:style-name="T59">OpenOffice</text:span> <text:span text:style-name="T45">的其他部分就没</text:span>Writer<text:span text:style-name="T45">那样依赖样式，但依然比</text:span>Microsoft Office<text:span text:style-name="T45">的同等部分更加注重样式。</text:span></text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T10">Much of t</text:span>his book is designed to explain not only what styles and templates are and how to use them, but also what you need to consider when selecting them. <text:span text:style-name="T10">The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency. Other sections are distinctly not about styles, but needed for a full discussion about design.</text:span></text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T5">However, one thing that this book</text:span> is not <text:span text:style-name="T5">is </text:span>a relentless death march <text:span text:style-name="T2">in regimented order</text:span> through every item in the menus. <text:span text:style-name="T11">Instead, it looks at important features from the point of view of planning</text:span>, <text:span text:style-name="T11">as a variety of tactics that you can choose, and skips around as seems most useful for planning. It assumes that </text:span>readers are either already familiar with LibreOffice and other office suite<text:span text:style-name="T11">s, or, at least, </text:span>can tour the menus by themselves.</text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T12">You might call this book an effort to make a single map out of two separate bodies of information: LibreOffice’s features, and the standard practices of typography (designing with </text:span>text). </text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T13">By understanding both,</text:span> you can <text:span text:style-name="T10">take advantage of what publishers </text:span>have been learning for over half a millennium <text:span text:style-name="T10">about what </text:span><text:soft-page-break/><text:span text:style-name="T10">works and what doesn’t. </text:span>The alternative is to spend more time on trial and error, and still end up <text:span text:style-name="T14">(as likely as not) </text:span>with something worse than if you <text:span text:style-name="T15">had taken</text:span> some advice.</text:p>
-   <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139237_1425529747"/>What is <text:span text:style-name="T16">typography</text:span>?<text:bookmark-end text:name="__RefHeading___Toc139237_1425529747"/></text:h>
+   <text:p text:style-name="P25"><text:span text:style-name="T57">这对</text:span><text:span text:style-name="T59">LibreOffice</text:span><text:span text:style-name="T56">来说</text:span><text:span text:style-name="T57">尤其的正确。它的</text:span><text:span text:style-name="T60">Writer</text:span><text:span text:style-name="T57">字处理程序是特别地用样式的概念来构造的。不只是</text:span>Writer<text:span text:style-name="T45">比其他字处理程序有更多种样式，很多高级特性，如目录和主文档</text:span><text:span text:style-name="T48">(master documents)</text:span><text:span text:style-name="T64">，</text:span><text:span text:style-name="T63">如</text:span><text:span text:style-name="T45">果没有样式，你就需要花费更多的精力去使用它们。在花费了搭建样式的时间之后，你会更愿意</text:span><text:soft-page-break/><text:span text:style-name="T45">不在你的下篇文档中再从头做重复的工作，所以模板也就成为了你工作流程的一部分。</text:span></text:p>
+   <text:p text:style-name="P25">LibreOffice<text:span text:style-name="T45">和</text:span><text:span text:style-name="T62">OpenOffice</text:span> <text:span text:style-name="T45">的其他部分就没</text:span>Writer<text:span text:style-name="T45">那样依赖样式，但依然比</text:span>Microsoft Office<text:span text:style-name="T45">的同等部分更加注重样式。</text:span></text:p>
+   <text:p text:style-name="P26">这本书的大部分内容不但解释样式和模板是什么，以及它们的使用方法，而且会告诉你在选择它们的时候要考虑什么。剩下的内容是和样式不太相关，或者独立于样式，而能让你获得完全的效率的特性。其他的章节明显地和样式无关，但对于一个关于设计的讨论，这些内容是必要的。</text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T49">然而，这本书并不会有组织地对</text:span><text:span text:style-name="T45">菜单中的每一项进行不断地讲解。它会从计划的角度看待重要的特性，就像你可以选择很多战术，跳跃地选择对计划最有用的。它假设读者已经对</text:span>LibreOffice<text:span text:style-name="T45">和其他</text:span>office<text:span text:style-name="T45">套件比较熟悉，或者至少可以自行漫游各个菜单。</text:span></text:p>
+   <text:p text:style-name="P27"><text:span text:style-name="T45">你可以把这本书称作对从两个单独的信息体中创造一张地图的一种努力： </text:span><text:span text:style-name="T50">LibreOffice的特性，和对排版技术（用文字设计）的标准实践。</text:span></text:p>
+   <text:p text:style-name="P27"><text:span text:style-name="T50">通过了解这两种技术，你可以利用出版者已经学习了超过五百年的关于什么工作，什么不工作的知识。另外的办法是花费更多的时间试错，结果</text:span><text:span text:style-name="T51">（很可能）</text:span><text:span text:style-name="T50">依然会比你先听取一些建议再做更加糟糕。</text:span></text:p>
+   <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139237_1425529747"/>What is <text:span text:style-name="T16">typography</text:span>?<text:bookmark-end text:name="__RefHeading___Toc139237_1425529747"/></text:h>
    <text:p text:style-name="P15"><text:span text:style-name="T13">P</text:span>eople have strange ideas about typography. Many imagine that it is about design that <text:span text:style-name="T17">screams for</text:span> attention, like <text:span text:style-name="T2">blinking text</text:span> on a web page. <text:span text:style-name="T18">Many, too, suppose that the </text:span>main purpose is to show how clever the designer is.</text:p>
-   <text:p text:style-name="P16">The truth is, nothing could be more wrong. The real purpose of typography is to make the text more inviting and easy to read. Its focus is not abstract design, but practical concerns like providing margins wide enough so that readers can comfortably hold a book, <text:span text:style-name="T10">or features that make a document easier to update. </text:span></text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/>The truth is, nothing could be more wrong. The real purpose of typography is to make the text more inviting and easy to read. Its focus is not abstract design, but practical concerns like providing margins wide enough so that readers can comfortably hold a book, <text:span text:style-name="T10">or features that make a document easier to update. </text:span></text:p>
    <text:p text:style-name="P17">Far from calling attention to itself, the best typography <text:span text:style-name="T3">hides, noticed by</text:span> casual readers only <text:span text:style-name="T3">in a vague sense that</text:span> a document is comfortable to read. The features that produce these characteristics should be noticeable only to <text:span text:style-name="T3">eyes</text:span> trained to be alert for them.</text:p>
-   <text:p text:style-name="P17">LibreOffice <text:span text:style-name="T3">does</text:span> not have all the tools needed for the highest level<text:span text:style-name="T19">s</text:span> of typography. However, <text:span text:style-name="T3">it does</text:span> have <text:span text:style-name="T20">many</text:span> of them, <text:span text:style-name="T8">and far more than any other office suite. T</text:span>he more you know about <text:soft-page-break/>typography, the more you can make <text:span text:style-name="T21">it</text:span> do what you want.</text:p>
+   <text:p text:style-name="P17">LibreOffice <text:span text:style-name="T3">does</text:span> not have all the tools needed for the highest level<text:span text:style-name="T19">s</text:span> of typography. However, <text:span text:style-name="T3">it does</text:span> have <text:span text:style-name="T20">many</text:span> of them, <text:span text:style-name="T8">and far more than any other office suite. T</text:span>he more you know about typography, the more you can make <text:span text:style-name="T21">it</text:span> do what you want.</text:p>
    <text:p text:style-name="P21">Still, in the end, <text:span text:style-name="Emphasis"><text:span text:style-name="T13">Designing with</text:span></text:span><text:span text:style-name="Emphasis"> LibreOffice</text:span> is not <text:span text:style-name="T22">about design in the abstract, but about </text:span>getting everyday tasks done. Those who want to know more about typography and layout <text:span text:style-name="T23">should look at Appendix C for more information.</text:span></text:p>
-   <text:h text:style-name="P28" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139239_1425529747"/>What is LibreOffice? <text:span text:style-name="T24">OpenOffice?</text:span><text:bookmark-end text:name="__RefHeading___Toc139239_1425529747"/></text:h>
-   <text:p text:style-name="P21">LibreOffice is an office <text:span text:style-name="T25">suite</text:span> that runs on <text:span text:style-name="T25">32 and 64 bit versions of</text:span> Linux, <text:span text:style-name="Choice_20_-_20_Body">OS X,</text:span> and Windows. <text:span text:style-name="T22">It is released</text:span> <text:span text:style-name="T25">under a free</text:span> license <text:span text:style-name="T26">that</text:span> lets you use it legally on as many machines as you want, and share it with others. <text:span text:style-name="T22">Since it is free software, you can even make your own changes in it if you have the skill.</text:span></text:p>
+   <text:h text:style-name="P31" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139239_1425529747"/>What is LibreOffice? <text:span text:style-name="T24">OpenOffice?</text:span><text:bookmark-end text:name="__RefHeading___Toc139239_1425529747"/></text:h>
+   <text:p text:style-name="P21">LibreOffice is an office <text:span text:style-name="T25">suite</text:span> that runs on <text:span text:style-name="T25">32 and 64 bit versions of</text:span> Linux, <text:span text:style-name="Choice_20_-_20_Body">OS X,</text:span> and Windows. <text:span text:style-name="T22">It is released</text:span> <text:span text:style-name="T25">under a free</text:span> license <text:span text:style-name="T26">that</text:span> lets you <text:soft-page-break/>use it legally on as many machines as you want, and share it with others. <text:span text:style-name="T22">Since it is free software, you can even make your own changes in it if you have the skill.</text:span></text:p>
    <text:p text:style-name="P21">LibreOffice is <text:span text:style-name="T25">descended from</text:span> OpenOffice.org, a free and open source software project run for years by Sun Microsystems. When Oracle bought Sun <text:span text:style-name="T27">in 2010</text:span>, LibreOffice started developing its own version of <text:span text:style-name="T28">OpenOffice.org</text:span>, as the <text:span text:style-name="T28">code’s </text:span>license <text:span text:style-name="T3">permits</text:span>. Eventually, Oracle gave its rights in the code to The Apache Foundation. </text:p>
-   <text:p text:style-name="P21">Today, OpenOffice.org no longer exists, but Apache OpenOffice <text:span text:style-name="T22">does. </text:span>Despite having different version numbers, LibreOffice and Apache OpenOffice are extremely similar in most features. <text:span text:style-name="T19">Unless I say otherwise, what I say </text:span><text:soft-page-break/><text:span text:style-name="T19">about LibreOffice should also be true for OpenOffice.</text:span></text:p>
+   <text:p text:style-name="P21">Today, OpenOffice.org no longer exists, but Apache OpenOffice <text:span text:style-name="T22">does. </text:span>Despite having different version numbers, LibreOffice and Apache OpenOffice are extremely similar in most features. <text:span text:style-name="T19">Unless I say otherwise, what I say about LibreOffice should also be true for OpenOffice.</text:span></text:p>
    <text:p text:style-name="P21">Several <text:span text:style-name="T29">other</text:span> organizations repackage both LibreOffice and Apache OpenOffice, sometimes under different names. This practice is perfectly legal, but sometimes involves using different icons and making o<text:span text:style-name="T12">t</text:span>her minor changes. </text:p>
    <text:p text:style-name="P18">Linux distributions are especially apt to make these cosmetic changes. You can tell if you are using an altered version because those installed from the repositories of distributions usually install to /usr/lib/libreoffice/. By contrast, installations directly from LibreOffice or OpenOffice downloads install to the /opt directory.</text:p>
-   <text:list xml:id="list1058949138363960212" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list2320882084316373045" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P31">Caution</text:p>
+     <text:p text:style-name="P34"><text:soft-page-break/>Caution</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P12">Some sources for LibreOffice and Apache OpenOffice charge a small fee. The license allows them to do so, but if you pay more than about ten dollars for shipping and handling, they are taking advantage of you. </text:p>
    <text:p text:style-name="P12">Both LibreOffice and Apache OpenOffice are widely available <text:span text:style-name="T26">at no cost to anyone with an Internet connection.</text:span></text:p>
-   <text:list xml:id="list6051495384192344446" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list8746894516927309927" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P25">Tip</text:p>
+     <text:p text:style-name="P28">Tip</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P13"><text:span text:style-name="Emphasis">Designing with LibreOffice </text:span>is about layout, so it does not mention every available feature.</text:p>
-   <text:p text:style-name="P13"><text:soft-page-break/>If you need information on features or selections that are not mentioned in this book, see the LibreOffice documentation page:</text:p>
+   <text:p text:style-name="P13">If you need information on features or selections that are not mentioned in this book, see the LibreOffice documentation page:</text:p>
    <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="http://www.libreoffice.org/get-help/documentation/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.libreoffice.org/get-help/documentation/</text:a></text:p>
    <text:p text:style-name="P13"><text:span text:style-name="T42">Printed</text:span> versions of the same manuals <text:span text:style-name="T37">are available for sale </text:span>at the Friends of Open Document store <text:span text:style-name="T43">at:</text:span></text:p>
    <text:p text:style-name="P12"><text:a xlink:type="simple" xlink:href="http://www.lulu.com/spotlight/opendocument" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.lulu.com/spotlight/opendocument</text:a></text:p>
-   <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139241_1425529747"/>What is Open Document Format?<text:bookmark-end text:name="__RefHeading___Toc139241_1425529747"/></text:h>
+   <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139241_1425529747"/>What is Open Document Format?<text:bookmark-end text:name="__RefHeading___Toc139241_1425529747"/></text:h>
    <text:p text:style-name="P19">Both LibreOffice and Apache OpenOffice use Open Document Format<text:span text:style-name="Choice_20_-_20_Body"> (ODF),</text:span> a file format consisting of zipped <text:span text:style-name="Choice_20_-_20_Body">XML</text:span> files. </text:p>
-   <text:p text:style-name="P19">You can use this format to exchange documents between the two, or <text:span text:style-name="T42">with </text:span>any other application that uses <text:span text:style-name="Choice_20_-_20_Body">ODF,</text:span> such as Calligra Suite or Abi<text:span text:style-name="T41">W</text:span>ord. In both <text:span text:style-name="T30">LibreOffice and OpenOffice,</text:span> you can also save to most Microsoft Office formats, and open files from WordPerfect, Microsoft Works, and several other formats, although <text:span text:style-name="T31">some formatting is sometimes lost in complex documents.</text:span></text:p>
-   <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139243_1425529747"/><text:span text:style-name="T25">A</text:span>bout this book<text:bookmark-end text:name="__RefHeading___Toc139243_1425529747"/></text:h>
-   <text:p text:style-name="P21"><text:span text:style-name="T32">This book standardizes on</text:span> LibreOffice on Linux, <text:span text:style-name="T17">because that is what I use every day. </text:span>However, <text:span text:style-name="T33">most of the book</text:span> applies to Apache OpenOffice as much as LibreOffice. Similarly, the <text:soft-page-break/>content usually applies to <text:span text:style-name="Choice_20_-_20_Body">OS X</text:span> and Window<text:span text:style-name="T32">s</text:span> versions as much as the Linux versions.</text:p>
+   <text:p text:style-name="P19"><text:soft-page-break/>You can use this format to exchange documents between the two, or <text:span text:style-name="T42">with </text:span>any other application that uses <text:span text:style-name="Choice_20_-_20_Body">ODF,</text:span> such as Calligra Suite or Abi<text:span text:style-name="T41">W</text:span>ord. In both <text:span text:style-name="T30">LibreOffice and OpenOffice,</text:span> you can also save to most Microsoft Office formats, and open files from WordPerfect, Microsoft Works, and several other formats, although <text:span text:style-name="T31">some formatting is sometimes lost in complex documents.</text:span></text:p>
+   <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139243_1425529747"/><text:span text:style-name="T25">A</text:span>bout this book<text:bookmark-end text:name="__RefHeading___Toc139243_1425529747"/></text:h>
+   <text:p text:style-name="P21"><text:span text:style-name="T32">This book standardizes on</text:span> LibreOffice on Linux, <text:span text:style-name="T17">because that is what I use every day. </text:span>However, <text:span text:style-name="T33">most of the book</text:span> applies to Apache OpenOffice as much as LibreOffice. Similarly, the content usually applies to <text:span text:style-name="Choice_20_-_20_Body">OS X</text:span> and Window<text:span text:style-name="T32">s</text:span> versions as much as the Linux versions.</text:p>
    <text:p text:style-name="P21">Where important differences exist, I <text:span text:style-name="T34">try to </text:span>mention them, but they <text:span text:style-name="T42">are surprisingly few</text:span>. <text:span text:style-name="T30">If you see a difference that I fail to mention, please let me know, so that I can make corrections.</text:span></text:p>
-   <text:h text:style-name="P27" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139245_1425529747"/>About the <text:span text:style-name="T35">w</text:span>riter<text:bookmark-end text:name="__RefHeading___Toc139245_1425529747"/></text:h>
+   <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139245_1425529747"/>About the <text:span text:style-name="T35">w</text:span>riter<text:bookmark-end text:name="__RefHeading___Toc139245_1425529747"/></text:h>
    <text:p text:style-name="P21">I have been writing about free and open source software for <text:span text:style-name="T36">over </text:span>a decade. I long ago lost count, but by now I’ve written over 1<text:span text:style-name="T37">7</text:span>00 articles. <text:span text:style-name="T15">A </text:span>sizable minority<text:span text:style-name="T1"> </text:span>have been about OpenOffice.org or LibreOffice.</text:p>
    <text:p text:style-name="P21"><text:s/><text:span text:style-name="T37">My LibreOffice articles include: </text:span></text:p>
-   <text:list xml:id="list4883473495800267932" text:style-name="Bulleted">
+   <text:list xml:id="list6244844037249142814" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P29">“11 Tips for Moving to OpenOffice.org,” which was the cover article for the March 2004 <text:span text:style-name="Emphasis">Linux Journal </text:span>(<text:span text:style-name="Internet_20_link">http://www.linuxjournal.com/article/7158</text:span>). </text:p>
+     <text:p text:style-name="P32"><text:soft-page-break/>“11 Tips for Moving to OpenOffice.org,” which was the cover article for the March 2004 <text:span text:style-name="Emphasis">Linux Journal </text:span>(<text:span text:style-name="Internet_20_link">http://www.linuxjournal.com/article/7158</text:span>). </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">“Replacing FrameMaker with OpenOffice.org Writer”(<text:span text:style-name="Internet_20_link">http://archive09.linux.com/articles/39406</text:span>).</text:p>
+     <text:p text:style-name="P32">“Replacing FrameMaker with OpenOffice.org Writer”(<text:span text:style-name="Internet_20_link">http://archive09.linux.com/articles/39406</text:span>).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29"><text:s/>“How LibreOffice Writer Tops Microsoft Word” (<text:span text:style-name="Internet_20_link">http://www.datamation.com/applications/how-libreoffice-writer-tops-ms-word-12-features-1.html</text:span>).</text:p>
+     <text:p text:style-name="P32"><text:s/>“How LibreOffice Writer Tops Microsoft Word” (<text:span text:style-name="Internet_20_link">http://www.datamation.com/applications/how-libreoffice-writer-tops-ms-word-12-features-1.html</text:span>).</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P21">Before <text:span text:style-name="T38">becoming a journalist</text:span>, I was a technical writer and graphic designer. During that part of my working life, I had several chances to stress-test OpenOffice.org, including writing several manuals of over 700 pages. It met every challenge I threw at it, making me aware that the software had more to it than most people <text:span text:style-name="T39">assumed</text:span>. </text:p>
-   <text:p text:style-name="P20"><text:soft-page-break/>LibreOffice <text:span text:style-name="T39">is not</text:span> perfect. Some parts of <text:span text:style-name="T39">it</text:span> are difficult to use, and others are undocumented in any meaningful way. <text:span text:style-name="T39">A few seem to suffer from longstanding bugs. Some parts are frankly obsolete. </text:span></text:p>
+   <text:p text:style-name="P20">LibreOffice <text:span text:style-name="T39">is not</text:span> perfect. Some parts of <text:span text:style-name="T39">it</text:span> are difficult to use, and others are undocumented in any meaningful way. <text:span text:style-name="T39">A few seem to suffer from longstanding bugs. Some parts are frankly obsolete. </text:span></text:p>
    <text:p text:style-name="P20">All the same, LibreOffice <text:span text:style-name="T39">is not</text:span> just <text:span text:style-name="T39">a</text:span> wannabe Microsoft Office. <text:span text:style-name="T36">Rather, it is a</text:span> powerful piece<text:span text:style-name="T36">s</text:span> of software in <text:span text:style-name="T39">its</text:span> own right, <text:span text:style-name="T39">sometimes falling short of Microsoft Office, but just as often exceeding it. It remains by far the best office suite available today.</text:span></text:p>
-   <text:p text:style-name="P22">Some users complain about LibreOffice’s reliance on styles and templates. Yet, without them, LibreOffice would not be nearly so powerful. They truly are the ignition key that most of us have been missing while coasting downhill. </text:p>
-   <text:list xml:id="list93814039598297" text:continue-list="list6051495384192344446" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:p text:style-name="P22">Some users complain about LibreOffice’s reliance on styles and templates. Yet, without them, LibreOffice would not be nearly so <text:soft-page-break/>powerful. They truly are the ignition key that most of us have been missing while coasting downhill. </text:p>
+   <text:list xml:id="list104359373857731" text:continue-list="list8746894516927309927" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P26">Tip</text:p>
+     <text:p text:style-name="P29">Tip</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P14"><text:span text:style-name="Emphasis">Designing with LibreOffice </text:span>is about layout, so it does not mention every available feature.</text:p>
