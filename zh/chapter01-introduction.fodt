@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-03-19T14:42:13.184357598</meta:creation-date><meta:editing-duration>PT1H23M7S</meta:editing-duration><meta:editing-cycles>23</meta:editing-cycles><meta:generator>LibreOffice/5.0.5.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2016-04-29T12:43:13.443970239</dc:date><meta:document-statistic meta:table-count="4" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="63" meta:word-count="2193" meta:character-count="6437" meta:non-whitespace-character-count="5760"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="../../../.config/libreoffice/4/user/template/designing-with-libreoffice.ott" meta:date="2016-03-19T14:42:56.886663639"/></office:meta>
+ <office:meta><meta:creation-date>2016-03-19T14:42:13.184357598</meta:creation-date><meta:editing-duration>PT2H33M43S</meta:editing-duration><meta:editing-cycles>32</meta:editing-cycles><meta:generator>LibreOffice/5.0.6.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2016-06-18T22:19:26.409919918</dc:date><meta:document-statistic meta:table-count="4" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="57" meta:word-count="2558" meta:character-count="3841" meta:non-whitespace-character-count="3773"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="../../../.config/libreoffice/4/user/template/designing-with-libreoffice.ott" meta:date="2016-03-19T14:42:56.886663639"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">68439</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">5</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">15612</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">14377</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">15266</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">8433</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">3411</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">79580</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8544</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">126725</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">68439</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">15610</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">82815</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">5</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">15265</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">8437</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">120</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">204</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">31406797</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">31541696</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -82,6 +82,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">en</config:config-item>
@@ -91,12 +92,14 @@
      <config:config-item config:name="EndLine" config:type="string"/>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CurrentDatabaseDataSource" config:type="string">Addresses</config:config-item>
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
@@ -116,8 +119,6 @@
    <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -136,7 +137,10 @@
   <style:font-face style:name="DejaVu Sans Mono" svg:font-family="&apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="FZSongS-Extended" svg:font-family="FZSongS-Extended" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="modern" style:font-pitch="fixed"/>
-  <style:font-face style:name="Droid Sans Mono" svg:font-family="&apos;Droid Sans Mono&apos;" style:font-family-generic="swiss" style:font-pitch="fixed"/>
+  <style:font-face style:name="Droid Sans Mono3" svg:font-family="&apos;Droid Sans Mono&apos;" style:font-family-generic="swiss" style:font-pitch="fixed"/>
+  <style:font-face style:name="Droid Sans Mono" svg:font-family="&apos;Droid Sans Mono&apos;" style:font-adornments="Bold Italic" style:font-family-generic="swiss" style:font-pitch="fixed"/>
+  <style:font-face style:name="Droid Sans Mono2" svg:font-family="&apos;Droid Sans Mono&apos;" style:font-adornments="Italic" style:font-family-generic="swiss" style:font-pitch="fixed"/>
+  <style:font-face style:name="Droid Sans Mono1" svg:font-family="&apos;Droid Sans Mono&apos;" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="fixed"/>
   <style:font-face style:name="Fanwood3" svg:font-family="Fanwood" style:font-adornments="Bold" style:font-pitch="variable"/>
   <style:font-face style:name="Fanwood2" svg:font-family="Fanwood" style:font-adornments="Italic" style:font-pitch="variable"/>
   <style:font-face style:name="Fanwood1" svg:font-family="Fanwood" style:font-adornments="Regular" style:font-pitch="variable"/>
@@ -151,6 +155,7 @@
   <style:font-face style:name="Raleway" svg:font-family="Raleway" style:font-adornments="Regular" style:font-pitch="variable"/>
   <style:font-face style:name="Nimbus Roman No9 L" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Droid Sans Fallback" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Droid Sans Fallback1" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans Narrow" svg:font-family="&apos;Liberation Sans Narrow&apos;" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Droid Sans Devanagari" svg:font-family="&apos;Droid Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="文泉驿正黑" svg:font-family="文泉驿正黑" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -182,7 +187,7 @@
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="0.529cm" fo:orphans="2" fo:widows="2" fo:text-indent="0.847cm" style:auto-text-indent="true" style:page-number="auto"/>
-   <style:text-properties style:font-name="Fanwood1" fo:font-family="Fanwood" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="12pt" style:font-size-asian="10.5pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-family="Fanwood" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback1" style:font-family-asian="&apos;Droid Sans Fallback&apos;" style:font-style-name-asian="Regular" style:font-family-generic-asian="swiss" style:font-pitch-asian="variable" style:font-size-asian="12pt"/>
   </style:style>
   <style:style style:name="List" style:family="paragraph" style:hidden="true" style:parent-style-name="Text_20_body" style:class="list">
    <style:text-properties style:font-name="Liberation Serif" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
@@ -546,7 +551,7 @@
   </style:style>
   <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.423cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
-   <style:text-properties fo:color="#008000" style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#008000" style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Droid Sans Mono" style:font-family-asian="&apos;Droid Sans Mono&apos;" style:font-style-name-asian="Bold Italic" style:font-family-generic-asian="swiss" style:font-pitch-asian="fixed" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.265cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.564cm" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto"/>
@@ -580,7 +585,7 @@
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.141cm" loext:contextual-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:font-name="Fanwood1" fo:font-family="Fanwood" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="12pt" style:font-size-asian="10.5pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-family="Fanwood" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="12pt" style:font-size-asian="12pt"/>
   </style:style>
   <style:style style:name="First_20_line_20_indent" style:display-name="First line indent" style:family="paragraph" style:hidden="true" style:parent-style-name="Text_20_body" style:class="text">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0.499cm" style:auto-text-indent="false"/>
@@ -623,7 +628,7 @@
    <style:paragraph-properties fo:margin-top="0.265cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:page-number="auto" fo:keep-with-next="always">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:color="#008000" style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="15pt" style:font-size-asian="10.5pt"/>
+   <style:text-properties fo:color="#008000" style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="15pt" fo:font-weight="normal" style:font-name-asian="Droid Sans Mono1" style:font-family-asian="&apos;Droid Sans Mono&apos;" style:font-style-name-asian="Regular" style:font-family-generic-asian="swiss" style:font-pitch-asian="fixed" style:font-size-asian="15pt"/>
   </style:style>
   <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:margin-top="3.669cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" style:line-height-at-least="1.129cm" fo:text-align="center" style:justify-single-word="false"/>
@@ -647,7 +652,7 @@
   </style:style>
   <style:style style:name="Note_20_-_20_Caution" style:display-name="Note - Caution" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip" style:next-style-name="Note" style:list-style-name="Note_20_-_20_Caution_20_Logo" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.265cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto"/>
-   <style:text-properties fo:color="#ff3333" fo:font-size="15pt" style:font-size-asian="10.5pt"/>
+   <style:text-properties fo:color="#ff3333" fo:font-size="15pt" fo:font-weight="normal" style:font-name-asian="Droid Sans Mono1" style:font-family-asian="&apos;Droid Sans Mono&apos;" style:font-style-name-asian="Regular" style:font-family-generic-asian="swiss" style:font-pitch-asian="fixed" style:font-size-asian="15pt"/>
   </style:style>
   <style:style style:name="Chapter_20_Number" style:display-name="Chapter Number" style:family="paragraph" style:parent-style-name="Heading_20_1" style:next-style-name="Heading_20_1" style:default-outline-level="" style:list-style-name="" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="1.129cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" style:page-number="auto" fo:break-before="page"/>
@@ -655,7 +660,7 @@
   </style:style>
   <style:style style:name="Note" style:family="paragraph" style:parent-style-name="Caption" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="1.323cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.265cm" loext:contextual-spacing="false" fo:line-height="0.459cm" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto"/>
-   <style:text-properties style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Droid Sans Mono2" style:font-family-asian="&apos;Droid Sans Mono&apos;" style:font-style-name-asian="Italic" style:font-family-generic-asian="swiss" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-style-asian="normal" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
   <style:style style:name="Text" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
@@ -8909,65 +8914,65 @@
    <style:text-properties fo:font-size="12pt" officeooo:rsid="00ac5b09" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-size="12pt" officeooo:paragraph-rsid="01d28be1" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="00ae2ddb" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-size="12pt" officeooo:paragraph-rsid="01d5ec1c" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties fo:font-size="12pt" officeooo:paragraph-rsid="01d28be1" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-size="12pt" officeooo:paragraph-rsid="01d5ec1c" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:font-size="12pt" officeooo:rsid="00ac5b09" officeooo:paragraph-rsid="01ca6e89" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="01de795e"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="01df3acd"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="00dc3eb2" officeooo:paragraph-rsid="01098436"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="00dc3eb2" officeooo:paragraph-rsid="01cb4fc0"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:font-size="19.5pt" officeooo:paragraph-rsid="01ca6e89" style:font-size-asian="19.5pt" style:font-size-complex="19.5pt"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:font-size="19.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="19.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="19.5pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties fo:font-size="18pt" fo:font-style="normal" fo:font-weight="bold" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:font-size="19.5pt" officeooo:paragraph-rsid="01ca6e89" style:font-size-asian="19.5pt" style:font-size-complex="19.5pt"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:font-size="19.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="19.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="19.5pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:font-size="18pt" fo:font-style="normal" fo:font-weight="bold" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Bulleted">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Bulleted">
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto" style:writing-mode="page"/>
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00536bad" officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="14pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="22pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="21.5pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="21.5pt" style:font-size-complex="21.5pt"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="21pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="01de795e"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="01df3acd"/>
   </style:style>
   <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="21pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
@@ -8981,19 +8986,16 @@
   <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Bulleted">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="21pt" officeooo:paragraph-rsid="01ca6e89" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Bulleted">
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="00dc3eb2" officeooo:paragraph-rsid="01098436"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="00dc3eb2" officeooo:paragraph-rsid="01cb4fc0"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
-   <style:text-properties officeooo:rsid="00536bad" officeooo:paragraph-rsid="01ca6e89"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="Right_20_Page">
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="Right_20_Page">
    <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto" style:writing-mode="page"/>
    <style:text-properties officeooo:paragraph-rsid="01ca6e89"/>
   </style:style>
@@ -9157,61 +9159,61 @@
    <style:text-properties officeooo:rsid="00aadec7" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties style:font-name-asian="Droid Sans Mono"/>
+   <style:text-properties style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties officeooo:rsid="01d0c2d2" style:font-name-asian="Droid Sans Mono"/>
+   <style:text-properties style:font-name-asian="Droid Sans Mono3"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties officeooo:rsid="01d0c2d2"/>
+   <style:text-properties officeooo:rsid="01d0c2d2" style:font-name-asian="Droid Sans Mono3"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties officeooo:rsid="01d28be1"/>
+   <style:text-properties officeooo:rsid="01d0c2d2"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties style:font-name="Droid Sans Fallback" style:font-name-asian="Droid Sans Fallback"/>
+   <style:text-properties officeooo:rsid="01d28be1"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties style:font-name="Droid Sans Fallback" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
+   <style:text-properties style:font-name="Droid Sans Fallback" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties style:font-name="Droid Sans Fallback" officeooo:rsid="00ae2ddb" style:font-name-asian="Droid Sans Fallback"/>
+   <style:text-properties style:font-name="Droid Sans Fallback" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Droid Sans Fallback" officeooo:rsid="00ae2ddb" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="12pt" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties style:font-name="Fanwood" style:font-name-asian="Droid Sans Fallback"/>
+   <style:text-properties style:font-name="Droid Sans Fallback" fo:font-size="12pt" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties style:font-name="Fanwood" fo:font-size="12pt" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
+   <style:text-properties style:font-name="Fanwood" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties style:font-name="fanwood" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
+   <style:text-properties style:font-name="Fanwood" fo:font-size="12pt" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties officeooo:rsid="01d3c0d2"/>
+   <style:text-properties style:font-name="fanwood" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
+   <style:text-properties officeooo:rsid="01d3c0d2"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="01d3c0d2" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="01d3c0d2" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="01d3c0d2" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="00ac5b09" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="01d3c0d2" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="00ac5b09" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
    <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="00b30106" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
@@ -9223,43 +9225,52 @@
    <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="00e6835c" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-size="12.5pt" officeooo:rsid="00ac5b09" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12.5pt" style:font-size-complex="12.5pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" officeooo:rsid="007a3ae0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties fo:font-size="12.5pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12.5pt" style:font-size-complex="12.5pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12pt" fo:font-style="normal" style:font-name-asian="Droid Sans Fallback1" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-size="12.5pt" officeooo:rsid="00ac5b09" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12.5pt" style:font-size-complex="12.5pt"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties fo:font-size="12pt" officeooo:rsid="01cf6b5d" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties fo:font-size="12.5pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12.5pt" style:font-size-complex="12.5pt"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties fo:font-size="12pt" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="T81" style:family="text">
-   <style:text-properties fo:font-size="12pt" officeooo:rsid="00c7fd0f" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="T82" style:family="text">
-   <style:text-properties fo:font-size="12pt" officeooo:rsid="00a9de57" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="T83" style:family="text">
-   <style:text-properties fo:font-size="12pt" officeooo:rsid="00aadec7" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="T84" style:family="text">
    <style:text-properties fo:font-size="12pt" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
+  <style:style style:name="T81" style:family="text">
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="01cf6b5d" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T82" style:family="text">
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="01d341b0" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T83" style:family="text">
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="00c7fd0f" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T84" style:family="text">
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="00a9de57" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
   <style:style style:name="T85" style:family="text">
-   <style:text-properties fo:font-size="12pt" officeooo:rsid="01de795e" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="00aadec7" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T86" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Droid Sans Fallback" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="01de795e" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T87" style:family="text">
-   <style:text-properties style:font-name-asian="Droid Sans Fallback" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Droid Sans Fallback" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T88" style:family="text">
    <style:text-properties officeooo:rsid="01df3acd"/>
+  </style:style>
+  <style:style style:name="T89" style:family="text">
+   <style:text-properties officeooo:rsid="01e014a4"/>
+  </style:style>
+  <style:style style:name="T90" style:family="text">
+   <style:text-properties fo:font-variant="small-caps" fo:font-style="normal" style:font-name-asian="Droid Sans Fallback1" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T91" style:family="text">
+   <style:text-properties officeooo:rsid="01e149c0"/>
   </style:style>
   <style:page-layout style:name="pm1" style:page-usage="mirrored">
    <style:page-layout-properties fo:page-width="15.24cm" fo:page-height="22.86cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2.399cm" fo:margin-bottom="2.646cm" fo:margin-left="2.646cm" fo:margin-right="2.399cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
@@ -9372,7 +9383,7 @@
      <table:table-column table:style-name="Table2.B"/>
      <table:table-row>
       <table:table-cell office:value-type="string">
-       <text:p text:style-name="Footer_20_left"><text:page-number text:select-page="current">8</text:page-number>.</text:p>
+       <text:p text:style-name="Footer_20_left"><text:page-number text:select-page="current">6</text:page-number>.</text:p>
       </table:table-cell>
       <table:table-cell office:value-type="string">
        <text:p text:style-name="P10">Designing with LibreOffice</text:p>
@@ -9418,81 +9429,71 @@
    <text:user-field-decls>
     <text:user-field-decl office:value-type="float" office:value="0" text:name="MD"/>
    </text:user-field-decls>
-   <text:p text:style-name="P60">1</text:p>
-   <text:h text:style-name="P49" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc139235_1425529747"/>简介<text:bookmark-end text:name="__RefHeading___Toc139235_1425529747"/></text:h>
-   <text:p text:style-name="P21"><text:span text:style-name="T45">Office</text:span><text:span text:style-name="T79">套件有着和个人电脑一样长的历史。但是，在三十多年之后，很少人学会了怎样使用它们。</text:span></text:p>
-   <text:p text:style-name="P29">哦，我们已经学会了怎样在里面完成工作。我们大多能够，勉强地，格式化一篇文档并把它打印出来。但我们没学到的<text:span text:style-name="T56">是</text:span>，利用所有我们可以得到的工具，高效地执行这些任务。</text:p>
+   <text:p text:style-name="P59">1</text:p>
+   <text:h text:style-name="P52" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc139235_1425529747"/>简介<text:bookmark-end text:name="__RefHeading___Toc139235_1425529747"/></text:h>
+   <text:p text:style-name="P21"><text:span text:style-name="T45">Office</text:span><text:span text:style-name="T81">套件有着和个人电脑一样长的历史。但是，在三十多年之后，很少人学会了怎样使用它们。</text:span></text:p>
+   <text:p text:style-name="P29">哦，我们已经学会了怎样在里面完成工作。我们大多能够，勉强地，格式化一篇文档并把它打印出来。但我们没学到的<text:span text:style-name="T57">是</text:span>，利用所有我们可以得到的工具，高效地执行这些任务。</text:p>
    <text:p text:style-name="P30">就像我们已经学会了足够多关于汽车下坡和平地滑行的知识，但从来没学会点火一样。虽然我们做完了事情，但是，我们付出了额外的功夫，也没有应有的效率。一些任务，比如走上坡路，也是可能做到的，只是因为我们的无知，我们没有想象出来。</text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T78">把任何</text:span><text:span text:style-name="T48">office</text:span><text:span text:style-name="T80">套件的全部潜力用出来，意味着知道怎样设计你的文档——而九成的设计是知道怎样用样式和模板。知道怎样用样式和模板就等同于拿到了滑行中的车子的钥匙，并看到了油门——突然间，你就能控制这辆车，而不是用笨拙的代用品勉强应付。</text:span></text:p>
-   <text:p text:style-name="P25"><text:span text:style-name="T62">这对</text:span><text:span text:style-name="T63">LibreOffice</text:span><text:span text:style-name="T61">来说</text:span><text:span text:style-name="T62">尤其的正确。它的</text:span><text:span text:style-name="T64">Writer</text:span><text:span text:style-name="T62">字处理程序是特别地用样式的概念来构造的。不只是</text:span>Writer<text:soft-page-break/><text:span text:style-name="T78">比其他字处理程序有更多种样式，很多高级特性，如目录和主文档</text:span><text:span text:style-name="T49">(master documents)</text:span><text:span text:style-name="T70">，</text:span><text:span text:style-name="T69">如</text:span><text:span text:style-name="T78">果没有样式，你就需要花费更多的精力去使用它们。在花费了搭建样式的时间之后，你会更愿意不在你的下篇文档中再从头做重复的工作，所以模板也就成为了你工作流程的一部分。</text:span></text:p>
-   <text:p text:style-name="P25">LibreOffice<text:span text:style-name="T78">和</text:span><text:span text:style-name="T66">OpenOffice</text:span> <text:span text:style-name="T78">的其他部分就没</text:span>Writer<text:span text:style-name="T78">那样依赖样式，但依然比</text:span>Microsoft Office<text:span text:style-name="T78">的同等部分更加注重样式。</text:span></text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T80">把任何</text:span><text:span text:style-name="T48">office</text:span><text:span text:style-name="T82">套件的全部潜力用出来，意味着知道怎样设计你的文档——而九成的设计是知道怎样用样式和模板。知道怎样用样式和模板就等同于拿到了滑行中的车子的钥匙，并看到了油门——突然间，你就能控制这辆车，而不是用笨拙的代用品勉强应付。</text:span></text:p>
+   <text:p text:style-name="P25"><text:soft-page-break/><text:span text:style-name="T63">这对</text:span><text:span text:style-name="T64">LibreOffice</text:span><text:span text:style-name="T62">来说</text:span><text:span text:style-name="T63">尤其的正确。它的</text:span><text:span text:style-name="T65">Writer</text:span><text:span text:style-name="T63">字处理程序是特别地用样式的概念来构造的。不只是</text:span>Writer<text:span text:style-name="T80">比其他字处理程序有更多种样式，很多高级特性，如目录和主文档</text:span><text:span text:style-name="T49">(master documents)</text:span><text:span text:style-name="T71">，</text:span><text:span text:style-name="T70">如</text:span><text:span text:style-name="T80">果没有样式，你就需要花费更多的精力去使用它们。在花费了搭建样式的时间之后，你会更愿意不在你的下篇文档中再从头做重复的工作，所以模板也就成为了你工作流程的一部分。</text:span></text:p>
+   <text:p text:style-name="P25">LibreOffice<text:span text:style-name="T80">和</text:span><text:span text:style-name="T67">OpenOffice</text:span> <text:span text:style-name="T80">的其他部分就没</text:span>Writer<text:span text:style-name="T80">那样依赖样式，但依然比</text:span>Microsoft Office<text:span text:style-name="T80">的同等部分更加注重样式。</text:span></text:p>
    <text:p text:style-name="P27">这本书的大部分内容不但解释样式和模板是什么，以及它们的使用方法，而且会告诉你在选择它们的时候要考虑什么。剩下的内容是和样式不太相关，或者独立于样式，而能让你获得完全的效率的特性。其他的章节明显地和样式无关，但对于一个关于设计的讨论，这些内容是必要的。</text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T81">然而，这本书并不会有组织地对</text:span><text:span text:style-name="T78">菜单中的每一项进行不断地讲解。它会从计划的角度看待重要的特性，就像你可以选择很多战术，跳跃地选择对计划最有用的。它假设读者已经对</text:span>LibreOffice<text:span text:style-name="T78">和其他</text:span>office<text:span text:style-name="T78">套件比较熟悉，或者至少可以自行漫游各个菜单。</text:span></text:p>
-   <text:p text:style-name="P28"><text:span text:style-name="T78">你可以把这本书称作对从两个单独的信息体中创造一张地图的一种努力：</text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T51">LibreOffice</text:span><text:span text:style-name="T82">的特性，和对字体排印（用文字设计）的标准实践。</text:span></text:p>
-   <text:p text:style-name="P33"><text:span text:style-name="T51">通过了解这两种技术，你可以利用出版者已经学习了超过五百年的关于什么工作，什么不工作的知识。另外的办法是花费更多的时间试错，结果</text:span><text:span text:style-name="T52">（很可能）</text:span><text:span text:style-name="T51">依然会比你先听取一些建议再做更加糟糕。</text:span></text:p>
-   <text:h text:style-name="P41" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139237_1425529747"/><text:soft-page-break/>什么是字体排印？<text:bookmark-end text:name="__RefHeading___Toc139237_1425529747"/></text:h>
-   <text:p text:style-name="P15"><text:span text:style-name="T83">人们对字体排印有着奇怪的想法。很多人想象为这是关于强烈吸引关注的设计，如网页上闪烁的文字。还有很多人，以为主要目的是显示设计者有多聪明。</text:span> </text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T83">然而，这本书并不会有组织地对</text:span><text:span text:style-name="T80">菜单中的每一项进行不断地讲解。它会从计划的角度看待重要的特性，就像你可以选择很多战术，跳跃地选择对计划最有用的。它假设读者已经对</text:span>LibreOffice<text:span text:style-name="T80">和其他</text:span>office<text:span text:style-name="T80">套件比较熟悉，或者至少可以自行漫游各个菜单。</text:span></text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T80">你可以把这本书称作对从两个单独的信息体中创造一张地图的一种努力：</text:span><text:span text:style-name="T46"> </text:span><text:span text:style-name="T51">LibreOffice</text:span><text:span text:style-name="T84">的特性，和对字体排印（用文字设计）的标准实践。</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T51">通过了解这两种技术，你可以利用出版者已经学习了超过五百年的关于什么工作，什么不工作的知识。另外的办法是花费更多的时间试错，结果</text:span><text:span text:style-name="T52">（很可能）</text:span><text:span text:style-name="T51">依然会比你先听取一些建议再做更加糟糕。</text:span></text:p>
+   <text:h text:style-name="P44" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139237_1425529747"/><text:soft-page-break/>什么是字体排印？<text:bookmark-end text:name="__RefHeading___Toc139237_1425529747"/></text:h>
+   <text:p text:style-name="P15"><text:span text:style-name="T85">人们对字体排印有着奇怪的想法。很多人想象为这是关于强烈吸引关注的设计，如网页上闪烁的文字。还有很多人，以为主要目的是显示设计者有多聪明。</text:span> </text:p>
    <text:p text:style-name="P31">真相是，没有什么想法比这些更荒谬的了。字体排印的真实目的是让文字读起来更加有魅力，更加容易。它的重点不是抽象的设计，而是现实的关注点，如提供足够宽的页边空白从而读者可以舒服地拿着书，还有让一篇文档更容易更新的特性。</text:p>
-   <text:p text:style-name="P17"><text:span text:style-name="T78">最好的字体排印，远远不是吸引注意力到自己身上，随意的一个读者只能注意到一种模糊的，文档读起来很舒服，的感觉。产生这种性质的特性只有训练得对它们很留心的眼睛才能注意到。</text:span></text:p>
-   <text:p text:style-name="P17">LibreOffice<text:span text:style-name="T71">并没有所有用于最高级的字体排印的工具。然而，它的确有很多这样的工具，而且比其他</text:span><text:span text:style-name="T8">office</text:span><text:span text:style-name="T71">套件多得多。你对字体排印了解得越多，你就可以让它做越多你想要的事情。</text:span></text:p>
-   <text:p text:style-name="P21"><text:span text:style-name="T78">最后，还是这句话，</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T13">Designing with</text:span></text:span><text:span text:style-name="Emphasis"> LibreOffice</text:span><text:span text:style-name="T78">不是关于抽象的设计的，是关于完成日常工作的。想了解更过关于字体排印和规划布局的读者，应该看看附录</text:span><text:span text:style-name="T24">C</text:span><text:span text:style-name="T73">以获得更多的信息。</text:span></text:p>
-   <text:h text:style-name="P38" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139239_1425529747"/><text:span text:style-name="T86">什么是</text:span>LibreOffice? <text:span text:style-name="T25">OpenOffice?</text:span><text:bookmark-end text:name="__RefHeading___Toc139239_1425529747"/></text:h>
-   <text:p text:style-name="P50">LibreOffice<text:span text:style-name="T78">是一个可以在</text:span><text:span text:style-name="T85">32和64位版本的</text:span>Linux, <text:span text:style-name="Choice_20_-_20_Body">OS X,</text:span> <text:span text:style-name="T69">和</text:span>Windows<text:span text:style-name="T69">上运行的办公套件。它在自由的许可证下发布，从而你可以合法地在任意多的机器上使用，并且和他人分享。因为它是自由软件，有能力的话，你甚至可以做你自己的修改。</text:span></text:p>
-   <text:p text:style-name="P51"><text:soft-page-break/>LibreOffice<text:span text:style-name="T69">起源于</text:span>OpenOffice.org, <text:span text:style-name="T87">一个由</text:span>Sun Microsystems<text:span text:style-name="T69">运营了多年的自由且开源的项目。当</text:span>Oracle<text:span text:style-name="T69">在</text:span><text:span text:style-name="T88">2010</text:span><text:span text:style-name="T74">年收购了</text:span>Sun<text:span text:style-name="T69">之后，在代码的许可证的许可下，</text:span>LibreOffice<text:span text:style-name="T69">开始开发自己的</text:span><text:span text:style-name="T29">OpenOffice.org</text:span><text:span text:style-name="T75">版本。最终，</text:span>Oracle<text:span text:style-name="T69">将它对代码的所有权交给了</text:span>Apache<text:span text:style-name="T69">基金会。</text:span></text:p>
-   <text:p text:style-name="P21">Today, OpenOffice.org no longer exists, but Apache OpenOffice <text:span text:style-name="T23">does. </text:span>Despite having different version numbers, LibreOffice and Apache OpenOffice are extremely similar in most features. <text:span text:style-name="T20">Unless I say otherwise, what I say about LibreOffice should also be true for OpenOffice.</text:span></text:p>
-   <text:p text:style-name="P21">Several <text:span text:style-name="T30">other</text:span> organizations repackage both LibreOffice and Apache OpenOffice, sometimes under different names. This practice is perfectly legal, but sometimes involves using different icons and making o<text:span text:style-name="T12">t</text:span>her minor changes. </text:p>
-   <text:p text:style-name="P18">Linux distributions are especially apt to make these cosmetic changes. You can tell if you are using an altered version because those installed from the repositories of distributions usually install to /usr/lib/libreoffice/. By contrast, installations directly from LibreOffice or OpenOffice downloads install to the /opt directory.</text:p>
-   <text:list xml:id="list3702791650878660172" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:p text:style-name="P32">最好的字体排印，远远不是吸引注意力到自己身上，随意的一个读者只能注意到一种模糊的，文档读起来很舒服，的感觉。产生这种性质的特性只有训练得对它们很留心的眼睛才能注意到。</text:p>
+   <text:p text:style-name="P17">LibreOffice<text:span text:style-name="T72">并没有所有用于最高级的字体排印的工具。然而，它的确有很多这样的工具，而且比其他</text:span><text:span text:style-name="T8">office</text:span><text:span text:style-name="T72">套件多得多。你对字体排印了解得越多，你就可以让它做越多你想要的事情。</text:span></text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T80">最后，还是这句话，</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T13">Designing with</text:span></text:span><text:span text:style-name="Emphasis"> LibreOffice</text:span><text:span text:style-name="T80">不是关于抽象的设计的，是关于完成日常工作的。想了解更过关于字体排印和规划布局的读者，应该看看附录</text:span><text:span text:style-name="T24">C</text:span><text:span text:style-name="T73">以获得更多的信息。</text:span></text:p>
+   <text:h text:style-name="P41" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139239_1425529747"/><text:span text:style-name="T87">什么是</text:span>LibreOffice? <text:span text:style-name="T25">OpenOffice?</text:span><text:bookmark-end text:name="__RefHeading___Toc139239_1425529747"/></text:h>
+   <text:p text:style-name="P36">LibreOffice<text:span text:style-name="T80">是一个可以在</text:span><text:span text:style-name="T86">32和64位版本的</text:span>Linux, <text:span text:style-name="Choice_20_-_20_Body">OS X,</text:span> <text:span text:style-name="T70">和</text:span>Windows<text:span text:style-name="T70">上运行的办公套件。它在自由的许可证下发布，从而你可以合法地在任意多的机器上使用，并且和他人分享。因为它是自由软件，有能力的话，你甚至可以做你自己的修改。</text:span></text:p>
+   <text:p text:style-name="P37">LibreOffice<text:span text:style-name="T70">起源于</text:span>OpenOffice.org, <text:span text:style-name="T54">一个由</text:span>Sun Microsystems<text:span text:style-name="T70">运营了多年的自由且开源的项目。当</text:span>Oracle<text:soft-page-break/><text:span text:style-name="T70">在</text:span><text:span text:style-name="T88">2010</text:span><text:span text:style-name="T74">年收购了</text:span>Sun<text:span text:style-name="T70">之后，在代码的许可证的许可下，</text:span>LibreOffice<text:span text:style-name="T70">开始开发自己的</text:span><text:span text:style-name="T29">OpenOffice.org</text:span><text:span text:style-name="T75">版本。最终，</text:span>Oracle<text:span text:style-name="T70">将它对代码的所有权交给了</text:span>Apache<text:span text:style-name="T70">基金会。</text:span></text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T70">今天，</text:span>OpenOffice.org<text:span text:style-name="T70">不再存在，但</text:span>Apache OpenOffice<text:span text:style-name="T70">还在。尽管版本号不同，</text:span>LibreOffice<text:span text:style-name="T70">和</text:span>Apache OpenOffice<text:span text:style-name="T70">在很多特性上及其近似。除非我有说明，我说的关于</text:span><text:span text:style-name="T20">LibreOffice</text:span><text:span text:style-name="T76">的东西对</text:span><text:span text:style-name="T20">OpenOffice</text:span><text:span text:style-name="T76">应该也是对的。</text:span></text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T76">好几个其他的组织同时为</text:span>LibreOffice<text:span text:style-name="T76">和</text:span>Apache OpenOffice<text:span text:style-name="T76">进行打包，有时用不同的名字。这个做法完全是合法的，但有时涉及到使用不同的图标和做其他的一些小改动。</text:span></text:p>
+   <text:p text:style-name="P18">Linux<text:span text:style-name="T76">发行版倾向于做这些表面更改。你可以看出来你是否在用一个改动的版本，因为那些从发行版仓库安装的通常安装在 </text:span>/usr/lib/libreoffice/. <text:span text:style-name="T76">相比之下，直接从</text:span>LibreOffice<text:span text:style-name="T76">或者</text:span> OpenOffice<text:span text:style-name="T76">下载的会安装在</text:span>/opt<text:span text:style-name="T76">目录。</text:span></text:p>
+   <text:list xml:id="list7278822827854432273" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P44">Caution</text:p>
+     <text:p text:style-name="Note_20_-_20_Caution">注意</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P12">Some sources for LibreOffice and Apache OpenOffice charge a small fee. The license allows <text:soft-page-break/>them to do so, but if you pay more than about ten dollars for shipping and handling, they are taking advantage of you. </text:p>
-   <text:p text:style-name="P12">Both LibreOffice and Apache OpenOffice are widely available <text:span text:style-name="T27">at no cost to anyone with an Internet connection.</text:span></text:p>
-   <text:list xml:id="list4039578310593138970" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:p text:style-name="Note">一些LibreOffice和Apache OpenOffice的来源会收一些费用。许可证允许他们这么做。但是如果你为运输和管理支付了超过十美金，那么他们正在利用你。</text:p>
+   <text:p text:style-name="P12">LibreOffice和Apache OpenOffice在有网络连接的地方，都是广泛提供给所有人的。</text:p>
+   <text:list xml:id="list7604928644294339724" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P35">Tip</text:p>
+     <text:p text:style-name="P38">小提示</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P13"><text:span text:style-name="Emphasis">Designing with LibreOffice </text:span>is about layout, so it does not mention every available feature.</text:p>
-   <text:p text:style-name="P13">If you need information on features or selections that are not mentioned in this book, see the LibreOffice documentation page:</text:p>
+   <text:p text:style-name="P13"><text:span text:style-name="Emphasis">Designing with LibreOffice</text:span>主要是关于规划布局的<text:span text:style-name="T89">，因此它不会提到每一个可以使用的特性。</text:span></text:p>
+   <text:p text:style-name="P13">如果你需要关于这本书没有提到的特性或选择的信息<text:span text:style-name="T89">，请看</text:span>LibreOffice的文档页<text:span text:style-name="T89">：</text:span></text:p>
    <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="http://www.libreoffice.org/get-help/documentation/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.libreoffice.org/get-help/documentation/</text:a></text:p>
-   <text:p text:style-name="P13"><text:span text:style-name="T43">Printed</text:span> versions of the same manuals <text:span text:style-name="T38">are available for sale </text:span>at the Friends of Open Document store <text:span text:style-name="T44">at:</text:span></text:p>
+   <text:p text:style-name="P13"><text:soft-page-break/><text:span text:style-name="T43">同一份手册的打印版也在</text:span>Friends of Open Document store出售<text:span text:style-name="T89">：</text:span></text:p>
    <text:p text:style-name="P12"><text:a xlink:type="simple" xlink:href="http://www.lulu.com/spotlight/opendocument" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.lulu.com/spotlight/opendocument</text:a></text:p>
-   <text:h text:style-name="P37" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139241_1425529747"/>What is Open Document Format?<text:bookmark-end text:name="__RefHeading___Toc139241_1425529747"/></text:h>
-   <text:p text:style-name="P19">Both LibreOffice and Apache OpenOffice use Open Document Format<text:span text:style-name="Choice_20_-_20_Body"> (ODF),</text:span> a file format consisting of zipped <text:span text:style-name="Choice_20_-_20_Body">XML</text:span> files. </text:p>
-   <text:p text:style-name="P19">You can use this format to exchange documents between the two, or <text:span text:style-name="T43">with </text:span>any other application that uses <text:span text:style-name="Choice_20_-_20_Body">ODF,</text:span> such as Calligra Suite or Abi<text:span text:style-name="T42">W</text:span>ord. In both <text:span text:style-name="T31">LibreOffice and OpenOffice,</text:span> you can also save to most Microsoft Office <text:soft-page-break/>formats, and open files from WordPerfect, Microsoft Works, and several other formats, although <text:span text:style-name="T32">some formatting is sometimes lost in complex documents.</text:span></text:p>
-   <text:h text:style-name="P37" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139243_1425529747"/><text:span text:style-name="T26">A</text:span>bout this book<text:bookmark-end text:name="__RefHeading___Toc139243_1425529747"/></text:h>
-   <text:p text:style-name="P21"><text:span text:style-name="T33">This book standardizes on</text:span> LibreOffice on Linux, <text:span text:style-name="T18">because that is what I use every day. </text:span>However, <text:span text:style-name="T34">most of the book</text:span> applies to Apache OpenOffice as much as LibreOffice. Similarly, the content usually applies to <text:span text:style-name="Choice_20_-_20_Body">OS X</text:span> and Window<text:span text:style-name="T33">s</text:span> versions as much as the Linux versions.</text:p>
-   <text:p text:style-name="P21">Where important differences exist, I <text:span text:style-name="T35">try to </text:span>mention them, but they <text:span text:style-name="T43">are surprisingly few</text:span>. <text:span text:style-name="T31">If you see a difference that I fail to mention, please let me know, so that I can make corrections.</text:span></text:p>
-   <text:h text:style-name="P37" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139245_1425529747"/>About the <text:span text:style-name="T36">w</text:span>riter<text:bookmark-end text:name="__RefHeading___Toc139245_1425529747"/></text:h>
-   <text:p text:style-name="P21">I have been writing about free and open source software for <text:span text:style-name="T37">over </text:span>a decade. I long ago lost count, but by now I’ve written over 1<text:span text:style-name="T38">7</text:span>00 articles. <text:span text:style-name="T15">A </text:span>sizable minority<text:span text:style-name="T1"> </text:span>have been about OpenOffice.org or LibreOffice.</text:p>
-   <text:p text:style-name="P21"><text:s/><text:span text:style-name="T38">My LibreOffice articles include: </text:span></text:p>
-   <text:list xml:id="list4809694729746814615" text:style-name="Bulleted">
+   <text:h text:style-name="P40" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139241_1425529747"/>什么是开放文档格式？<text:bookmark-end text:name="__RefHeading___Toc139241_1425529747"/></text:h>
+   <text:p text:style-name="P19">LibreOffice 和Apache OpenOffice都使用开放文档格式<text:span text:style-name="Choice_20_-_20_Body"><text:span text:style-name="T90">(Open Document Format, ODF)</text:span></text:span><text:span text:style-name="Choice_20_-_20_Body">,</text:span>一种由通过zip打包的XML文件组成的文件格式。</text:p>
+   <text:p text:style-name="P19">你可以用这种格式在两种软件之间交换文档，或者用其他使用<text:span text:style-name="Choice_20_-_20_Body">ODF</text:span><text:span text:style-name="Choice_20_-_20_Body"><text:span text:style-name="T77">的软件，例如</text:span></text:span>Calligra Suite或Abi<text:span text:style-name="T42">W</text:span>ord.在 <text:span text:style-name="T31">LibreOffice和OpenOffice,你也可以保存为大多数的</text:span>Microsoft Office格式，也可以打开WordPerfect, Microsoft Works, 和其他几种格式，尽管在复杂的文档中一些格式有时会丢失。</text:p>
+   <text:h text:style-name="P40" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139243_1425529747"/>关于这本书<text:bookmark-end text:name="__RefHeading___Toc139243_1425529747"/></text:h>
+   <text:p text:style-name="P21"><text:span text:style-name="T33">这本书以Linux下的</text:span>LibreOffice为标准，因为这是我每天用的。然而，这本书的大多数内容都能用于Apache OpenOffice。类似的，这些内容也能用于<text:span text:style-name="Choice_20_-_20_Body">OS X</text:span>和Window<text:span text:style-name="T33">s</text:span> 版本。</text:p>
+   <text:p text:style-name="P21">在重要的不同点存在的地方，我会试着提到它们，但这些东西令人惊讶地少。如果你看到了我没有提到的不同点，请让我知道，这样我可以做修正。</text:p>
+   <text:h text:style-name="P40" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139245_1425529747"/>关于作者<text:bookmark-end text:name="__RefHeading___Toc139245_1425529747"/></text:h>
+   <text:p text:style-name="P21">我十多年来一直在写关于自由开源软件的内容。我很久之前不记得数量了，但直到现在，我已经写了超过<text:span text:style-name="T91">1700篇文章。相当大的一部分文章是关于</text:span>OpenOffice.org或LibreOffice的。</text:p>
+   <text:p text:style-name="P21"><text:soft-page-break/><text:s/>我的<text:span text:style-name="T38">LibreOffice 文章包括：</text:span></text:p>
+   <text:list xml:id="list3936662404458805427" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P42">“11 Tips for Moving to OpenOffice.org,” which was the cover article for the March 2004 <text:span text:style-name="Emphasis">Linux Journal </text:span>(<text:span text:style-name="Internet_20_link">http://www.linuxjournal.com/article/7158</text:span>). </text:p>
+     <text:p text:style-name="P45">“11 Tips for Moving to OpenOffice.org,” 这是<text:span text:style-name="T91">2004年3月</text:span><text:span text:style-name="Emphasis">Linux Journal</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T77">的封面文章</text:span></text:span>(<text:span text:style-name="Internet_20_link">http://www.linuxjournal.com/article/7158</text:span>). </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">“Replacing FrameMaker with OpenOffice.org Writer”(<text:span text:style-name="Internet_20_link">http://archive09.linux.com/articles/39406</text:span>).</text:p>
+     <text:p text:style-name="P45">“Replacing FrameMaker with OpenOffice.org Writer”(<text:span text:style-name="Internet_20_link">http://archive09.linux.com/articles/39406</text:span>).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42"><text:soft-page-break/><text:s/>“How LibreOffice Writer Tops Microsoft Word” (<text:span text:style-name="Internet_20_link">http://www.datamation.com/applications/how-libreoffice-writer-tops-ms-word-12-features-1.html</text:span>).</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P21">Before <text:span text:style-name="T39">becoming a journalist</text:span>, I was a technical writer and graphic designer. During that part of my working life, I had several chances to stress-test OpenOffice.org, including writing several manuals of over 700 pages. It met every challenge I threw at it, making me aware that the software had more to it than most people <text:span text:style-name="T40">assumed</text:span>. </text:p>
-   <text:p text:style-name="P20">LibreOffice <text:span text:style-name="T40">is not</text:span> perfect. Some parts of <text:span text:style-name="T40">it</text:span> are difficult to use, and others are undocumented in any meaningful way. <text:span text:style-name="T40">A few seem to suffer from longstanding bugs. Some parts are frankly obsolete. </text:span></text:p>
-   <text:p text:style-name="P20">All the same, LibreOffice <text:span text:style-name="T40">is not</text:span> just <text:span text:style-name="T40">a</text:span> wannabe Microsoft Office. <text:span text:style-name="T37">Rather, it is a</text:span> powerful piece<text:span text:style-name="T37">s</text:span> of software in <text:span text:style-name="T40">its</text:span> own right, <text:span text:style-name="T40">sometimes falling short of Microsoft Office, but just as often exceeding it. It remains by far the best office suite available today.</text:span></text:p>
-   <text:p text:style-name="P22">Some users complain about LibreOffice’s reliance on styles and templates. Yet, without them, LibreOffice would not be nearly so powerful. They truly are the ignition key that most of us have been missing while coasting downhill. </text:p>
-   <text:list xml:id="list124314248011713" text:continue-list="list4039578310593138970" text:style-name="Note_20_-_20_Tip_20_Logo">
-    <text:list-item>
-     <text:p text:style-name="P36"><text:soft-page-break/>Tip</text:p>
+     <text:p text:style-name="P45"><text:s/>“How LibreOffice Writer Tops Microsoft Word” (<text:span text:style-name="Internet_20_link">http://www.datamation.com/applications/how-libreoffice-writer-tops-ms-word-12-features-1.html</text:span>).</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P14"><text:span text:style-name="Emphasis">Designing with LibreOffice </text:span>is about layout, so it does not mention every available feature.</text:p>
-   <text:p text:style-name="P14">If you need information on features or selections that are not mentioned in this book, see the LibreOffice documentation page:</text:p>
-   <text:p text:style-name="P14"><text:a xlink:type="simple" xlink:href="http://www.libreoffice.org/get-help/documentation/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.libreoffice.org/get-help/documentation/</text:a></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T43">Printed</text:span> versions of the same manuals <text:span text:style-name="T38">are available for sale </text:span>at the Friends of Open Document store <text:span text:style-name="T44">at:</text:span></text:p>
-   <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="http://www.lulu.com/spotlight/opendocument" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.lulu.com/spotlight/opendocument</text:a></text:p>
+   <text:p text:style-name="P21">在成为一名记者之前，我是一个技术作家和图像设计师。在我工作生活的那部分，我有几次对OpenOffice.org进行压力测试的机会，包括写几个超过700 pages的手册。我遇到了我扔给它的几个挑战，让我意识到软件比大多数人设想的那样有更多的东西。</text:p>
+   <text:p text:style-name="P20">LibreOffice并不完美。它的一些部分很难用，其他的一些没有以有意义的方式文档化。一些似乎有长期没修复的bug<text:span text:style-name="T40">.一些部分坦白地说是荒废了。</text:span></text:p>
+   <text:p text:style-name="P20">同样的，LibreOffice 不只是一个想成为Microsoft Office的软件。相反，它自身是一个强大的软件，有时会不如<text:span text:style-name="T40">Microsoft Office,但同时也会超越它。到现在它一直是现在能用到的最好的office套件。</text:span></text:p>
+   <text:p text:style-name="P22">一些用户抱怨LibreOffice对样式和模板的依赖。然而，没有它们，LibreOffice不会有这么强大。它们的确是我们中大多数在下坡滑行时都没有找到的点火钥匙。</text:p>
   </office:text>
  </office:body>
 </office:document>
