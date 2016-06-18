@@ -14,5 +14,8 @@
 
 #### 字体
 
-翻译作品使用的中文字体暂时定为Droid Sans Fallback.
+翻译作品使用的中文字体暂时定为Droid Sans Fallback和Droid Sans Mono, 原文使用Fanwood的地方使用Droid Sans Fallback,原文使用Raleway的地方使用Droid Sans Mono,字体大小和风格和原文所用相同(相同pt值). 在翻译一篇文章前请先设置Heading,Text,Note等样式的中文字体，以便翻译时自动设置中文字体，具体方式可参考本书第2章。而对于没有使用样式规定字体的文字格式保持不变。
 
+#### 一些术语的翻译
+
+我翻译时整理了一些术语，给出了一个参考翻译，放在项目wiki里面，有更好的翻译请提出建议。
