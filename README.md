@@ -14,7 +14,11 @@
 
 #### 字体
 
-翻译作品使用的中文字体暂时定为Droid Sans Fallback和Droid Sans Mono, 原文使用Fanwood的地方使用Droid Sans Fallback,原文使用Raleway的地方使用Droid Sans Mono,字体大小和风格和原文所用相同(相同pt值). 在翻译一篇文章前请先设置Heading,Text,Note等样式的中文字体，以便翻译时自动设置中文字体，具体方式可参考本书第2章。而对于没有使用样式规定字体的文字格式保持不变。
+GNU/Linux下的自由字体可见[此链接](http://wiki.debian.org.hk/w/Fonts)。
+
+我打算使用[cwTeX字体](https://github.com/l10n-tw/cwtex-q-fonts-TTFs)和[文泉驿微米黑Lite](http://wenq.org/forum/viewtopic.php?f=12&t=853)（文泉驿微米黑的细体）。其中英文衬线字体Fanwood对应cwTeX明体（即宋体），非衬线字体Raleway对应文泉驿微米黑。由于cwTeX字体中没有标准斜体，因此Fanwood斜体对应中文cwTeX楷体。
+
+具体模板已经做好，位于[zh/designing-with-libreoffice-zh.ott](zh/designing-with-libreoffice-zh.ott)，使用方式见本书第三章。
 
 #### 一些术语的翻译
 
