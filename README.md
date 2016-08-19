@@ -18,7 +18,7 @@ GNU/Linux下的自由字体可见[此链接](http://wiki.debian.org.hk/w/Fonts)�
 
 我打算使用[cwTeX字体](https://github.com/l10n-tw/cwtex-q-fonts-TTFs)和[文泉驿微米黑Lite](http://wenq.org/forum/viewtopic.php?f=12&t=853)（文泉驿微米黑的细体）。其中英文衬线字体Fanwood对应cwTeX明体（即宋体），非衬线字体Raleway对应文泉驿微米黑。由于cwTeX字体中没有标准斜体，因此Fanwood斜体对应中文cwTeX楷体。
 
-具体模板已经做好，位于[zh/designing-with-libreoffice-zh.ott](zh/designing-with-libreoffice-zh.ott)，使用方式见本书第三章。
+具体模板已经做好，位于[zh/designing-with-libreoffice.ott](zh/designing-with-libreoffice-zh.ott)，使用方式见本书第三章。
 
 #### 一些术语的翻译
 
