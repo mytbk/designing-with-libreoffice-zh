@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-03-19T15:59:34.151458372</meta:creation-date><meta:editing-duration>PT3H17M28S</meta:editing-duration><meta:editing-cycles>23</meta:editing-cycles><meta:generator>LibreOffice/5.4.5.1$Linux_X86_64 LibreOffice_project/40m0$Build-1</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2018-03-05T00:06:28.524744630</dc:date><meta:document-statistic meta:table-count="7" meta:image-count="3" meta:object-count="0" meta:page-count="9" meta:paragraph-count="85" meta:word-count="4003" meta:character-count="4335" meta:non-whitespace-character-count="4266"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="designing-with-libreoffice.ott" meta:date="2018-03-04T23:39:39.839948066"/></office:meta>
+ <office:meta><meta:creation-date>2016-03-19T15:59:34.151458372</meta:creation-date><meta:editing-duration>PT3H18M10S</meta:editing-duration><meta:editing-cycles>24</meta:editing-cycles><meta:generator>LibreOffice/5.4.6.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2018-04-08T15:34:30.561129140</dc:date><meta:document-statistic meta:table-count="7" meta:image-count="3" meta:object-count="0" meta:page-count="9" meta:paragraph-count="85" meta:word-count="4003" meta:character-count="4335" meta:non-whitespace-character-count="4266"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="designing-with-libreoffice.ott" meta:date="2018-03-04T23:39:39.839948066"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">50659</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">27430</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17006</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">43658</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">20657</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16073</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3685</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11241</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">57654</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">27428</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">17004</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">50659</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">43656</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">71314</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -100,7 +100,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">30294378</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">30361234</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -150,8 +150,8 @@
   <style:font-face style:name="Raleway2" svg:font-family="Raleway" style:font-adornments="Italic" style:font-pitch="variable"/>
   <style:font-face style:name="Raleway3" svg:font-family="Raleway" style:font-adornments="Light" style:font-pitch="variable"/>
   <style:font-face style:name="Raleway" svg:font-family="Raleway" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="思源宋体 CN Light1" svg:font-family="&apos;思源宋体 CN Light&apos;" style:font-adornments="Bold Italic" style:font-pitch="variable"/>
-  <style:font-face style:name="思源宋体 CN Light" svg:font-family="&apos;思源宋体 CN Light&apos;" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="思源宋体 CN Light" svg:font-family="&apos;思源宋体 CN Light&apos;" style:font-adornments="Bold Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="思源宋体 CN Light1" svg:font-family="&apos;思源宋体 CN Light&apos;" style:font-adornments="Italic" style:font-pitch="variable"/>
   <style:font-face style:name="思源宋体 CN Medium" svg:font-family="&apos;思源宋体 CN Medium&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
   <style:font-face style:name="思源黑体 CN Light" svg:font-family="&apos;思源黑体 CN Light&apos;" style:font-adornments="Light" style:font-pitch="variable"/>
   <style:font-face style:name="思源黑体 CN Medium" svg:font-family="&apos;思源黑体 CN Medium&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
@@ -772,7 +772,7 @@
   <style:style style:name="Drawing" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
   <style:style style:name="Dedication" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="4.001cm" fo:margin-bottom="4.001cm" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Fanwood Text" fo:font-family="&apos;Fanwood Text&apos;" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="思源宋体 CN Light1" style:font-family-asian="&apos;思源宋体 CN Light&apos;" style:font-style-name-asian="Bold Italic" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+   <style:text-properties fo:color="#000000" style:font-name="Fanwood Text" fo:font-family="&apos;Fanwood Text&apos;" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="思源宋体 CN Light" style:font-family-asian="&apos;思源宋体 CN Light&apos;" style:font-style-name-asian="Bold Italic" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-weight-asian="bold"/>
   </style:style>
   <style:style style:name="Table_20_Sub-Heading" style:display-name="Table Sub-Heading" style:family="paragraph" style:parent-style-name="Table_20_Heading">
    <style:text-properties fo:font-size="11pt" style:font-size-asian="10.5pt"/>
@@ -842,7 +842,7 @@
    <style:text-properties fo:color="#800000" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Emphasis" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-family="Fanwood" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" style:font-name-asian="思源宋体 CN Light" style:font-family-asian="&apos;思源宋体 CN Light&apos;" style:font-style-name-asian="Italic" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-family="Fanwood" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" style:font-name-asian="思源宋体 CN Light1" style:font-family-asian="&apos;思源宋体 CN Light&apos;" style:font-style-name-asian="Italic" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Untitled1" style:family="text" style:hidden="true" style:parent-style-name="Emphasis">
    <style:text-properties fo:font-size="12.5pt" style:font-size-asian="10.5pt"/>
@@ -8785,51 +8785,6 @@
   <style:style style:name="Table7.B" style:family="table-column">
    <style:table-column-properties style:column-width="0.958cm" style:rel-column-width="6043*"/>
   </style:style>
-  <style:style style:name="Table306" style:family="table">
-   <style:table-properties style:width="11.007cm" fo:margin-left="0cm" fo:margin-top="0.265cm" fo:margin-bottom="0cm" table:align="left" style:may-break-between-rows="false"/>
-  </style:style>
-  <style:style style:name="Table306.A" style:family="table-column">
-   <style:table-column-properties style:column-width="11.007cm"/>
-  </style:style>
-  <style:style style:name="Table306.A1" style:family="table-cell">
-   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
-  </style:style>
-  <style:style style:name="Table307" style:family="table">
-   <style:table-properties style:width="10.105cm" fo:margin-left="0cm" fo:margin-top="0.265cm" fo:margin-bottom="0.265cm" table:align="left" fo:keep-with-next="always" style:may-break-between-rows="false"/>
-  </style:style>
-  <style:style style:name="Table307.A" style:family="table-column">
-   <style:table-column-properties style:column-width="10.105cm"/>
-  </style:style>
-  <style:style style:name="Table307.A1" style:family="table-cell">
-   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
-  </style:style>
-  <style:style style:name="Table308" style:family="table">
-   <style:table-properties style:width="10.105cm" fo:margin-left="0cm" fo:margin-top="0.265cm" fo:margin-bottom="0.265cm" table:align="left" fo:keep-with-next="always" style:may-break-between-rows="false"/>
-  </style:style>
-  <style:style style:name="Table308.A" style:family="table-column">
-   <style:table-column-properties style:column-width="10.105cm"/>
-  </style:style>
-  <style:style style:name="Table308.A1" style:family="table-cell">
-   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
-  </style:style>
-  <style:style style:name="Table7" style:family="table">
-   <style:table-properties style:width="10.379cm" table:align="margins" style:may-break-between-rows="false"/>
-  </style:style>
-  <style:style style:name="Table7.A" style:family="table-column">
-   <style:table-column-properties style:column-width="9.421cm" style:rel-column-width="59492*"/>
-  </style:style>
-  <style:style style:name="Table7.B" style:family="table-column">
-   <style:table-column-properties style:column-width="0.958cm" style:rel-column-width="6043*"/>
-  </style:style>
-  <style:style style:name="Table2" style:family="table">
-   <style:table-properties style:width="10.379cm" table:align="margins" style:may-break-between-rows="false"/>
-  </style:style>
-  <style:style style:name="Table2.A" style:family="table-column">
-   <style:table-column-properties style:column-width="1.099cm" style:rel-column-width="6939*"/>
-  </style:style>
-  <style:style style:name="Table2.B" style:family="table-column">
-   <style:table-column-properties style:column-width="9.28cm" style:rel-column-width="58596*"/>
-  </style:style>
   <style:style style:name="Table1" style:family="table">
    <style:table-properties table:align="margins" style:may-break-between-rows="false"/>
   </style:style>
@@ -8847,6 +8802,51 @@
   </style:style>
   <style:style style:name="Table8.B" style:family="table-column">
    <style:table-column-properties style:rel-column-width="6043*"/>
+  </style:style>
+  <style:style style:name="Table2" style:family="table">
+   <style:table-properties style:width="10.379cm" table:align="margins" style:may-break-between-rows="false"/>
+  </style:style>
+  <style:style style:name="Table2.A" style:family="table-column">
+   <style:table-column-properties style:column-width="1.099cm" style:rel-column-width="6939*"/>
+  </style:style>
+  <style:style style:name="Table2.B" style:family="table-column">
+   <style:table-column-properties style:column-width="9.28cm" style:rel-column-width="58596*"/>
+  </style:style>
+  <style:style style:name="Table7" style:family="table">
+   <style:table-properties style:width="10.379cm" table:align="margins" style:may-break-between-rows="false"/>
+  </style:style>
+  <style:style style:name="Table7.A" style:family="table-column">
+   <style:table-column-properties style:column-width="9.421cm" style:rel-column-width="59492*"/>
+  </style:style>
+  <style:style style:name="Table7.B" style:family="table-column">
+   <style:table-column-properties style:column-width="0.958cm" style:rel-column-width="6043*"/>
+  </style:style>
+  <style:style style:name="Table306" style:family="table">
+   <style:table-properties style:width="11.007cm" fo:margin-left="0cm" fo:margin-top="0.265cm" fo:margin-bottom="0cm" table:align="left" style:may-break-between-rows="false" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table306.A" style:family="table-column">
+   <style:table-column-properties style:column-width="11.007cm"/>
+  </style:style>
+  <style:style style:name="Table306.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="Table307" style:family="table">
+   <style:table-properties style:width="10.105cm" fo:margin-left="0cm" fo:margin-top="0.265cm" fo:margin-bottom="0.265cm" table:align="left" fo:keep-with-next="always" style:may-break-between-rows="false" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table307.A" style:family="table-column">
+   <style:table-column-properties style:column-width="10.105cm"/>
+  </style:style>
+  <style:style style:name="Table307.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
+  </style:style>
+  <style:style style:name="Table308" style:family="table">
+   <style:table-properties style:width="10.105cm" fo:margin-left="0cm" fo:margin-top="0.265cm" fo:margin-bottom="0.265cm" table:align="left" fo:keep-with-next="always" style:may-break-between-rows="false" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table308.A" style:family="table-column">
+   <style:table-column-properties style:column-width="10.105cm"/>
+  </style:style>
+  <style:style style:name="Table308.A1" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0cm" fo:border="none"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="00425105"/>
@@ -8981,178 +8981,157 @@
    <style:text-properties officeooo:rsid="00e70c4e" officeooo:paragraph-rsid="01ccb268"/>
   </style:style>
   <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="009712a3" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0098217b" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="true"/>
    <style:text-properties officeooo:rsid="00905571" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01ccb268"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:margin-top="0.381cm" fo:margin-bottom="0.152cm" loext:contextual-spacing="false" style:writing-mode="page"/>
-   <style:text-properties officeooo:rsid="007d549d" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0086d5ac" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="01070d6a" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="007ecb16" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00d03b05" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="007d549d" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00e70c4e" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="007f4a2f" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="011b5480" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="010c19e8" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="008a46cc" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="0098b331" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
-   <style:text-properties officeooo:rsid="00e4aedc" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
-   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
-   <style:text-properties officeooo:rsid="007f9ce7" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="1.067cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:page-number="auto" style:writing-mode="page"/>
-   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="00425105"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00cd1b26" officeooo:paragraph-rsid="00cd1b26"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0011dbfd"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="true"/>
    <style:text-properties officeooo:rsid="0094b1fb" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00905571" officeooo:paragraph-rsid="01c9c28d"/>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="009712a3" officeooo:paragraph-rsid="01c9c28d"/>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0098217b" officeooo:paragraph-rsid="01c9c28d"/>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01ccb268"/>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Footer_20_right">
-   <style:text-properties officeooo:paragraph-rsid="00a8de17"/>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="01238ba1" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Footer_20_right">
-   <style:text-properties officeooo:paragraph-rsid="005bcbd8"/>
-  </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Footer_20_right">
-   <style:text-properties officeooo:rsid="0011dbfd" officeooo:paragraph-rsid="0011dbfd"/>
-  </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Footer_20_right">
-   <style:text-properties officeooo:paragraph-rsid="0011dbfd"/>
-  </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Footer_20_left">
-   <style:text-properties officeooo:paragraph-rsid="00425105"/>
-  </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0.381cm" fo:margin-bottom="0.152cm" loext:contextual-spacing="false" style:writing-mode="page"/>
    <style:text-properties officeooo:rsid="007d549d" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0086d5ac" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="01070d6a" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="007ecb16" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00d03b05" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="007d549d" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="00e70c4e" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="007f4a2f" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="011b5480" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="010c19e8" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="01238ba1" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01c9c28d"/>
-  </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01ccb268"/>
-  </style:style>
-  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="008a46cc" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
    <style:text-properties officeooo:rsid="0098b331" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00e4aedc" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="007f9ce7" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
-  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="Right_20_Page">
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="1.067cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:page-number="auto" style:writing-mode="page"/>
    <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-top="0.381cm" fo:margin-bottom="0.152cm" loext:contextual-spacing="false" style:writing-mode="page"/>
+   <style:text-properties officeooo:rsid="007d549d" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0086d5ac" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="01070d6a" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="007ecb16" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00d03b05" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="007d549d" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00e70c4e" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="007f4a2f" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="011b5480" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="01238ba1" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="010d5a30" officeooo:paragraph-rsid="01ccb268"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="008a46cc" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="0098b331" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="Right_20_Page">
+   <style:paragraph-properties fo:margin-top="1.067cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+   <style:text-properties officeooo:rsid="00e4aedc" officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+   <style:text-properties officeooo:paragraph-rsid="01c9c28d"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+   <style:text-properties officeooo:rsid="007f9ce7" officeooo:paragraph-rsid="01c9c28d"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00ec4950"/>
@@ -9362,27 +9341,27 @@
    <text:user-field-decls>
     <text:user-field-decl office:value-type="float" office:value="0" text:name="MD"/>
    </text:user-field-decls>
-   <text:p text:style-name="P100">1<text:span text:style-name="T1">6</text:span></text:p>
-   <text:h text:style-name="P49" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc32324_2074576844"/>将所有东西整合到一起<text:bookmark-end text:name="__RefHeading___Toc32324_2074576844"/></text:h>
+   <text:p text:style-name="P90">1<text:span text:style-name="T1">6</text:span></text:p>
+   <text:h text:style-name="P53" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc32324_2074576844"/>将所有东西整合到一起<text:bookmark-end text:name="__RefHeading___Toc32324_2074576844"/></text:h>
    <text:p text:style-name="P21">使用样式<text:span text:style-name="T14">、模板及其相关工具使得格式化和写作一篇文档更加简单。然而，在您完成一篇文档之前的最后编辑也是设计和创作过程中的重要一环。</text:span></text:p>
    <text:p text:style-name="P22">当您完成设计和写作<text:span text:style-name="T14">哪怕只是一篇短文档之时，您很可能已经迷失了对它的视角。您可能会对这篇文档感到如此熟悉，以至于您不能注意到您是否表达了所有您本意想要说的东西。在极端情况下，您甚至可能会厌恶文档的观点——很多专业人士将此阶段视为作品几乎完成的一种标志。</text:span></text:p>
    <text:p text:style-name="P23">但是<text:span text:style-name="T14">，无论您的感受如何，您需要重获视角，然后才能进行最后的编辑。</text:span></text:p>
    <text:p text:style-name="P23">重获视角的一种方式是从他人处获得另一种观点<text:span text:style-name="T14">。此人应当是对您的话题感兴趣的而又愿意花时间通读全文并且诚实地回应。</text:span></text:p>
    <text:p text:style-name="P24">然而在实践上<text:span text:style-name="T14">，这样的人很难得。您可能必须静下来而非大声朗读您的文档。您可以通过打印输出阅读它，或是将它放置几天。所有这些可能性可以帮助您和您的作品之间保持足够的距离，使得您能够去批判它。</text:span></text:p>
-   <text:p text:style-name="P70">系统性地开始您的最后编辑，首先专注于内容，然后转向结构和设计。本章的标题将会为您提供一份检查清单步骤以供遵循。</text:p>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32326_2074576844"/><text:soft-page-break/>检查副本<text:bookmark-end text:name="__RefHeading___Toc32326_2074576844"/></text:h>
+   <text:p text:style-name="P48">系统性地开始您的最后编辑，首先专注于内容，然后转向结构和设计。本章的标题将会为您提供一份检查清单步骤以供遵循。</text:p>
+   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32326_2074576844"/><text:soft-page-break/>检查副本<text:bookmark-end text:name="__RefHeading___Toc32326_2074576844"/></text:h>
    <text:p text:style-name="P25">问问您自己<text:span text:style-name="T14">：您的讨论是否完整？您是否包含了相反的观点？您能否回应驳论？您是否遗漏了某些术语、假设、程序或背景？</text:span></text:p>
    <text:p text:style-name="P25">段落的长度是否适当<text:span text:style-name="T14">？如果您打算在线出版，那么段落不应长于四五句话以便于理解。在纸版上，段落可以更长，但仅限于您需要额外的长度用于更加详细的论述。一个占据了超过半页的段落通常应当被分割，无论采用何种出版格式，由于过长的段落可能会促使读者略过它们。</text:span></text:p>
    <text:p text:style-name="P26">同样需要检查清晰度<text:span text:style-name="T14">。最终的测试是以常规的中等快速语速大声朗读一个段落。如果您难于阅读该段落，或者一位听者难于理解它，那么您可能想要重新组织语言或者缩短句子。</text:span></text:p>
    <text:p text:style-name="P26">随着您开始着手于单词层面<text:span text:style-name="T14">，考虑任何一处行话是否必需。一个单词是否准确地表达了您想要表达的意思，或者您能否改用一个更为恰当的单词？您是否正在使用您的读者也会使用的那种语言和行话？</text:span></text:p>
-   <text:h text:style-name="P58" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc32328_2074576844"/>您最喜欢的东西<text:bookmark-end text:name="__RefHeading___Toc32328_2074576844"/></text:h>
+   <text:h text:style-name="P62" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc32328_2074576844"/>您最喜欢的东西<text:bookmark-end text:name="__RefHeading___Toc32328_2074576844"/></text:h>
    <text:p text:style-name="P27">每一位作者都有他们最喜欢的词语和表达方式<text:span text:style-name="T14">。随着您的工作，开发出一套您最喜欢的用语列表，并且每当您编辑副本时查找其中的每一项。考虑一些替代用语以使得它们不至于太过引人注目。</text:span></text:p>
    <text:p text:style-name="P27">您可能还会发现您已经对于某些表达方式或者单个段落感到得意<text:span text:style-name="T14">。有些作者信奉“一位作家的最好的朋友就是废纸篓”，并且将会删除任何他们感到过于得意的东西，由于他们不能客观地感知这些内容。这在某些情况下可能显得有些极端，但是您确实应该考虑这种可能性。</text:span></text:p>
-   <text:h text:style-name="P59" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc32330_2074576844"/>检查结构<text:bookmark-end text:name="__RefHeading___Toc32330_2074576844"/></text:h>
+   <text:h text:style-name="P63" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc32330_2074576844"/>检查结构<text:bookmark-end text:name="__RefHeading___Toc32330_2074576844"/></text:h>
    <text:p text:style-name="P28">您的文档如何行文<text:span text:style-name="T14">？如果您怀疑读者有可能不会读完所有内容，您将会想要最先指出您的最重要的观点，以使得至少它们会</text:span><text:soft-page-break/><text:span text:style-name="T14">被阅读。与之相反，如果您能够期望读者读完全文，您也可以将您的最重要的观点放在最后，而首先用相对次要的观点来构建文档。</text:span></text:p>
-   <text:list xml:id="list969008805" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list2782807930" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P61">提示</text:p>
+     <text:p text:style-name="P66">提示</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P18"><text:span text:style-name="T4">如果文档使用标题，选择“视图 &gt; 导航”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T4">View &gt; Navigator</text:span></text:span><text:span text:style-name="T4">）或者按下 F5 键。</text:span></text:p>
@@ -12384,46 +12363,46 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P51" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32332_2074576844"/>检查设计<text:bookmark-end text:name="__RefHeading___Toc32332_2074576844"/></text:h>
+   <text:h text:style-name="P55" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32332_2074576844"/>检查设计<text:bookmark-end text:name="__RefHeading___Toc32332_2074576844"/></text:h>
    <text:p text:style-name="P43">打印输出一份副本或者使用<text:span text:style-name="T15">“文件 &gt; 打印预览”（</text:span><text:span text:style-name="Choice">File &gt; Print Preview</text:span><text:span text:style-name="T15">）。或者更好地，二者兼有。无论您如何精心地开发并且修改您的模板，仍然容易遗漏设计中的问题，除非您作为一个整体查看页面——或者更好地，在双页铺展模式下查看。</text:span></text:p>
    <text:p text:style-name="P31">在所有事情当中<text:span text:style-name="T15">，您应该检查的有：</text:span></text:p>
-   <text:list xml:id="list2407481423" text:style-name="Bulleted">
+   <text:list xml:id="list2247824984" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P46">页面样式按照您想要的顺序排列<text:span text:style-name="T15">；</text:span></text:p>
+     <text:p text:style-name="P49">页面样式按照您想要的顺序排列<text:span text:style-name="T15">；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">页码编号以及不同的编号风格在您所期望的位置开始<text:span text:style-name="T15">；</text:span></text:p>
+     <text:p text:style-name="P49">页码编号以及不同的编号风格在您所期望的位置开始<text:span text:style-name="T15">；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">新的一章始于右页<text:span text:style-name="T15">。尝试不要被页面预览不能准确显示双页铺展这一事实所迷惑；</text:span></text:p>
+     <text:p text:style-name="P49">新的一章始于右页<text:span text:style-name="T15">。尝试不要被页面预览不能准确显示双页铺展这一事实所迷惑；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46">页脚和页眉以所需要的顺序编排信息<text:span text:style-name="T15">。例如，页码排列在每一页的外页边将会更加引人注目；</text:span></text:p>
+     <text:p text:style-name="P49">页脚和页眉以所需要的顺序编排信息<text:span text:style-name="T15">。例如，页码排列在每一页的外页边将会更加引人注目；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P46"><text:soft-page-break/>您可能只会将其作为最后一步创建的用于内容目录或者索引的段落样式与设计的其余部分兼容<text:span text:style-name="T15">；</text:span></text:p>
+     <text:p text:style-name="P49"><text:soft-page-break/>您可能只会将其作为最后一步创建的用于内容目录或者索引的段落样式与设计的其余部分兼容<text:span text:style-name="T15">；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P92">当文档被添加到一篇母版文档中或者粘贴到一起时，每篇文档中的首个项目编号列表可能需要手动重新编号。</text:p>
+     <text:p text:style-name="P52">当文档被添加到一篇母版文档中或者粘贴到一起时，每篇文档中的首个项目编号列表可能需要手动重新编号。</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32334_2074576844"/>定位对象<text:bookmark-end text:name="__RefHeading___Toc32334_2074576844"/></text:h>
+   <text:h text:style-name="P56" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32334_2074576844"/>定位对象<text:bookmark-end text:name="__RefHeading___Toc32334_2074576844"/></text:h>
    <text:p text:style-name="P32">图形<text:span text:style-name="T15">、表格、图表和其他对象应该被放置得尽可能接近引用了它们的文字。</text:span></text:p>
    <text:p text:style-name="P33">同样需要检查诸如图注的结构以及对象上下方的空白这样的格式在全文中保持一致性。最为常见的容易出现问题的地方是这样一种情况：一个具有下方空白的段落跟着一个具有上方空白的段落，其结果是多于您可能想要的空白。</text:p>
    <text:p text:style-name="P33">使用导航以便系统性地仔细检查对象<text:span text:style-name="T15">，然后您可以认出偏离了您所设置的格式惯例的地方。</text:span></text:p>
-   <text:h text:style-name="P53" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32336_2074576844"/>调整断词<text:bookmark-end text:name="__RefHeading___Toc32336_2074576844"/></text:h>
+   <text:h text:style-name="P57" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32336_2074576844"/><text:reference-mark-start text:name="Adjusting hyphenation"/>调整断词<text:bookmark-end text:name="__RefHeading___Toc32336_2074576844"/><text:reference-mark-end text:name="Adjusting hyphenation"/></text:h>
    <text:p text:style-name="P34">如果您决定对正文使用断词<text:span text:style-name="T15">，</text:span>LibreOffice 可以在您工作时尽其所能做好<text:span text:style-name="T15">，但是当您完成编辑和修改之后，这种即时完成的断词的效果可能远非</text:span> LibreOffice 所能做到的最好<text:span text:style-name="T15">。</text:span></text:p>
    <text:p text:style-name="P35">在您对文档进行最后检查的时候<text:span text:style-name="T15">，点击“工具 &gt; 语言 &gt; 断词”（</text:span><text:span text:style-name="Choice">Tools &gt; Language &gt; Hyphenation</text:span><text:span text:style-name="T15">）。此工具允许您选择每一行在何处断开，以及连字符将会跟随在哪些音节后面。</text:span></text:p>
-   <text:list xml:id="list1910360799" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list1881924667" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P63">注意</text:p>
+     <text:p text:style-name="P68">注意</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">某些版本的 LibreOffice 包含拼写辞典却没有断词辞典<text:span text:style-name="T15">，因此您可能必须在运行断词检查之前下载并安装一部断词辞典。</text:span></text:p>
    <text:p text:style-name="P17">您将会为文档中的每一种语言或者区域设置需要一部独立的断词辞典<text:span text:style-name="T15">。</text:span></text:p>
-   <text:list xml:id="list629220539506" text:continue-numbering="true" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list153432130567268" text:continue-numbering="true" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P64"><text:soft-page-break/>注意</text:p>
+     <text:p text:style-name="P69"><text:soft-page-break/>注意</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P16">运行断词工具将会添加连字符<text:span text:style-name="T15">，即使您没有一种样式被设置为使用连字符。如果您想要完全避免断词并且保持一种右侧页边参差不齐的状态，请略过这一步骤。</text:span></text:p>
@@ -16695,10 +16674,10 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P54" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32338_2074576844"/>检查拼写<text:bookmark-end text:name="__RefHeading___Toc32338_2074576844"/></text:h>
+   <text:h text:style-name="P58" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32338_2074576844"/>检查拼写<text:bookmark-end text:name="__RefHeading___Toc32338_2074576844"/></text:h>
    <text:p text:style-name="P37">在<text:span text:style-name="T15">“工具”（</text:span><text:span text:style-name="Choice">Tools</text:span><text:span text:style-name="T15">）菜单中为文档中所用到的每一种语言进行拼写检查。您可以查看您的每一种段落样式的“字体”（</text:span><text:span text:style-name="Choice">Fonts</text:span><text:span text:style-name="T15">）选项卡以检查其语言。</text:span>LibreOffice 也会检查一些语法和布局<text:span text:style-name="T15">，诸如强制句点后面使用一个空格而非两个。</text:span></text:p>
-   <text:p text:style-name="P72">然而，总是记住拼写检查不能替代您的个人判断。并非 Writer 所标注的每一处都是错误拼写，而语法检查还远不完美。</text:p>
-   <text:p text:style-name="P73">拼写检查所能做的是减少抓出打字错误以及常规错误所需要的繁重工作。然而，从来不要认为您能够在运行它的时候抓出所有问题。拼写检查后面应该总是跟着至少一次手动检查。</text:p>
+   <text:p text:style-name="P45">然而，总是记住拼写检查不能替代您的个人判断。并非 Writer 所标注的每一处都是错误拼写，而语法检查还远不完美。</text:p>
+   <text:p text:style-name="P46">拼写检查所能做的是减少抓出打字错误以及常规错误所需要的繁重工作。然而，从来不要认为您能够在运行它的时候抓出所有问题。拼写检查后面应该总是跟着至少一次手动检查。</text:p>
    <text:p text:style-name="P37"><text:span text:style-name="T2">在您进行拼写检查时，记录下您经常出现的打字错误，并且使用“编辑 &gt; 查找和替换”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T9">Edit &gt; Find &amp; Replace</text:span></text:span><text:span text:style-name="T2">）来帮助您改正它的每一处实例。查找和替换常规错误远比拼写检查要快，并且允许您更多地查看这些错误所发生的上下文环境。</text:span></text:p>
    <table:table table:name="Table308" table:style-name="Table308">
     <table:table-column table:style-name="Table308.A"/>
@@ -22470,39 +22449,39 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list629685370907" text:continue-list="list969008805" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list153431328496531" text:continue-list="list2782807930" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P62">提示</text:p>
+     <text:p text:style-name="P67">提示</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P17">如果您在最后时刻添加了任何内容<text:span text:style-name="T16">，高亮选择所添加的内容，然后拼写检查只会检查这些内容。</text:span></text:p>
-   <text:h text:style-name="P55" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32340_2074576844"/>检查分页<text:bookmark-end text:name="__RefHeading___Toc32340_2074576844"/></text:h>
+   <text:h text:style-name="P59" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32340_2074576844"/>检查分页<text:bookmark-end text:name="__RefHeading___Toc32340_2074576844"/></text:h>
    <text:p text:style-name="P38">将缩放比例减小到 75% 或者更小<text:span text:style-name="T16">，并且观察页面结束的位置。不论您如何格式化，由于存在图形、表格和其他对象，您很可能拥有距离页面底端还差好几行就结束了的页面。</text:span></text:p>
    <text:p text:style-name="P38">通常<text:span text:style-name="T16">，您可以通过重新编排诸如图像和表格等元素，或者通过分割段落以多利用一两行空白的方式来改进分页。也许您会决定，一段您曾经省略的评注还是值得添加的，或者一个段落可以被分割，尽管仅仅为了改进设计而去修改内容是一种优先级错位的案例。</text:span></text:p>
    <text:p text:style-name="P38">在极端情况下<text:span text:style-name="T16">，您可能甚至想要添加手动分页符。然而，如同任何手动格式化那样，您所添加的越多，文档就越难于维护。</text:span></text:p>
    <text:p text:style-name="P38"><text:soft-page-break/>您将会极度幸运<text:span text:style-name="T16">（或者极度刻苦），如果每一页都恰好在其最后一行处分页。否则，请满足于在每一页到达底端之前空出 4 行以内的结果。您所作出的手动修改越多，您在该文档的下一版本中不得不作出的手动修改很可能也会越多。</text:span></text:p>
-   <text:h text:style-name="P90" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc32342_2074576844"/>母版文档的问题<text:bookmark-end text:name="__RefHeading___Toc32342_2074576844"/></text:h>
+   <text:h text:style-name="P65" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc32342_2074576844"/>母版文档的问题<text:bookmark-end text:name="__RefHeading___Toc32342_2074576844"/></text:h>
    <text:p text:style-name="P39">在最近的 LibreOffice 版本中<text:span text:style-name="T16">，母版文档具有某些问题：</text:span></text:p>
-   <text:list xml:id="list630268938573" text:continue-list="list2407481423" text:style-name="Bulleted">
+   <text:list xml:id="list153432146015160" text:continue-list="list2247824984" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P47">母版文档可能会和一篇独立的子文档以不同方式分页<text:span text:style-name="T16">。您有时可以这样发现此问题，即首先基于子文档将一系列页面范围打印到 PDF，然后基于母版文档进行打印，再比较二者的分页；</text:span></text:p>
+     <text:p text:style-name="P50">母版文档可能会和一篇独立的子文档以不同方式分页<text:span text:style-name="T16">。您有时可以这样发现此问题，即首先基于子文档将一系列页面范围打印到 PDF，然后基于母版文档进行打印，再比较二者的分页；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P94">如果您在两篇子文档之间进行交叉引用<text:span text:style-name="T16">，目标子文档将会在您打开该子文档时显示信息“错误：未找到引用”（</text:span>Error: Reference not found<text:span text:style-name="T16">）。此交叉引用仅在您从母版文档中打开它们时显示正确；</text:span></text:p>
+     <text:p text:style-name="P87">如果您在两篇子文档之间进行交叉引用<text:span text:style-name="T16">，目标子文档将会在您打开该子文档时显示信息“错误：未找到引用”（</text:span>Error: Reference not found<text:span text:style-name="T16">）。此交叉引用仅在您从母版文档中打开它们时显示正确；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P47">如果您在两篇子文档之间进行交叉引用<text:span text:style-name="T16">，目标文档中的错误信息可能远远长于母版文档中的交叉引用。这种错位可能导致子文档和母版文档之间的分页差别。</text:span></text:p>
+     <text:p text:style-name="P50">如果您在两篇子文档之间进行交叉引用<text:span text:style-name="T16">，目标文档中的错误信息可能远远长于母版文档中的交叉引用。这种错位可能导致子文档和母版文档之间的分页差别。</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P39">为了克服这些问题<text:span text:style-name="T16">，避免过于紧凑的分页，留下一两行空行。或者，在诸如长篇文档或是团队项目这样的便于使用母版文档的时候使用母版文档，并且在您的最后编辑结束时将其复制并粘贴为一篇长篇文档。</text:span></text:p>
-   <text:h text:style-name="P56" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32344_2074576844"/>更新<text:bookmark-end text:name="__RefHeading___Toc32344_2074576844"/></text:h>
+   <text:h text:style-name="P60" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32344_2074576844"/>更新<text:bookmark-end text:name="__RefHeading___Toc32344_2074576844"/></text:h>
    <text:p text:style-name="P44">选择<text:span text:style-name="T16">“工具 &gt; 更新 &gt; 更新全部”（</text:span><text:span text:style-name="Choice">Tools &gt; Update &gt; Update All</text:span><text:span text:style-name="T16">）以保证所有的字段均为最新。这项检查对于交叉引用尤其重要，由于它们可能在您编辑时被重新定位了。</text:span></text:p>
-   <text:h text:style-name="P57" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32346_2074576844"/><text:soft-page-break/>进行最后检查<text:bookmark-end text:name="__RefHeading___Toc32346_2074576844"/></text:h>
+   <text:h text:style-name="P61" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc32346_2074576844"/><text:soft-page-break/>进行最后检查<text:bookmark-end text:name="__RefHeading___Toc32346_2074576844"/></text:h>
    <text:p text:style-name="P41">在您出版之前<text:span text:style-name="T16">，将缩放比例设置为</text:span> 75% 或者选择<text:span text:style-name="T16">“文件 &gt; 打印预览”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T11">File &gt; Print Preview</text:span></text:span><text:span text:style-name="T16">）并对文档进行最后一次高等级检查。</text:span></text:p>
    <text:p text:style-name="P40">此时<text:span text:style-name="T16">，您应该只会找到极少的问题。如果您确实发现了问题，考虑重复最后的编辑过程。然而，如果您已经如此做过了若干次，问问自己如此进行意义不大的小修补是否在一定程度上是在希望达到一种不可能的完美。</text:span></text:p>
-   <text:list xml:id="list630426208289" text:continue-list="list629220539506" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list153432453253987" text:continue-list="list153432130567268" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P65">注意</text:p>
+     <text:p text:style-name="P70">注意</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P19">在某些<text:span text:style-name="T12"> </text:span>LibreOffice 发行版本中<text:span text:style-name="T16">，“打印预览”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T16">Print Preview</text:span></text:span><text:span text:style-name="T16">）将会显示表格周围的边框，即使您已经完全关闭它们。这些边框不会被打印出来。但是为了恰当地查看表格，在右键上下文菜单中取消选择“表格边界”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T16">Table Boundaries</text:span></text:span><text:span text:style-name="T16">）。</text:span></text:p>
