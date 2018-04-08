@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-03-19T15:15:56.192837803</meta:creation-date><meta:editing-duration>PT14H54M58S</meta:editing-duration><meta:editing-cycles>42</meta:editing-cycles><meta:generator>LibreOffice/5.4.5.1$Linux_X86_64 LibreOffice_project/40m0$Build-1</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2018-03-27T09:56:06.092252679</dc:date><meta:document-statistic meta:table-count="19" meta:image-count="17" meta:object-count="0" meta:page-count="32" meta:paragraph-count="293" meta:word-count="12441" meta:character-count="15126" meta:non-whitespace-character-count="14592"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="designing-with-libreoffice.ott" meta:date="2018-03-04T23:39:39.839948066"/></office:meta>
+ <office:meta><meta:creation-date>2016-03-19T15:15:56.192837803</meta:creation-date><meta:editing-duration>PT14H55M6S</meta:editing-duration><meta:editing-cycles>43</meta:editing-cycles><meta:generator>LibreOffice/5.4.6.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2018-04-08T17:43:45.661193600</dc:date><meta:document-statistic meta:table-count="19" meta:image-count="17" meta:object-count="0" meta:page-count="32" meta:paragraph-count="293" meta:word-count="12441" meta:character-count="15124" meta:non-whitespace-character-count="14590"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="designing-with-libreoffice.ott" meta:date="2018-04-08T17:39:11.155423830"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">579868</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">9190</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">14337</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">32576</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17214</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">6505</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">568307</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">27404</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">3747</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">579868</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">9188</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">594203</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">32574</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">17212</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
-     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">220</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">2</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">180</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
@@ -100,7 +100,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">33443676</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">33500309</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -578,7 +578,7 @@
      <style:tab-stop style:position="17.09cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-weight="normal" style:font-name-asian="思源黑体 CN Light" style:font-family-asian="&apos;思源黑体 CN Light&apos;" style:font-style-name-asian="Light" style:font-pitch-asian="variable" style:font-weight-asian="250"/>
+   <style:text-properties style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-weight="normal" style:font-name-asian="思源黑体 CN Light" style:font-family-asian="&apos;思源黑体 CN Light&apos;" style:font-style-name-asian="Light" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:font-weight-asian="250"/>
   </style:style>
   <style:style style:name="Index_20_Separator" style:display-name="Index Separator" style:family="paragraph" style:parent-style-name="Index" style:class="index">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
@@ -8788,42 +8788,6 @@
   <style:style style:name="Table7.B" style:family="table-column">
    <style:table-column-properties style:column-width="0.958cm" style:rel-column-width="6043*"/>
   </style:style>
-  <style:style style:name="Table1" style:family="table">
-   <style:table-properties table:align="margins" style:may-break-between-rows="false"/>
-  </style:style>
-  <style:style style:name="Table1.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="60857*"/>
-  </style:style>
-  <style:style style:name="Table1.B" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="4678*"/>
-  </style:style>
-  <style:style style:name="Table8" style:family="table">
-   <style:table-properties table:align="margins" style:may-break-between-rows="false" style:writing-mode="page"/>
-  </style:style>
-  <style:style style:name="Table8.A" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="59492*"/>
-  </style:style>
-  <style:style style:name="Table8.B" style:family="table-column">
-   <style:table-column-properties style:rel-column-width="6043*"/>
-  </style:style>
-  <style:style style:name="Table2" style:family="table">
-   <style:table-properties style:width="10.379cm" table:align="margins" style:may-break-between-rows="false"/>
-  </style:style>
-  <style:style style:name="Table2.A" style:family="table-column">
-   <style:table-column-properties style:column-width="1.099cm" style:rel-column-width="6939*"/>
-  </style:style>
-  <style:style style:name="Table2.B" style:family="table-column">
-   <style:table-column-properties style:column-width="9.28cm" style:rel-column-width="58596*"/>
-  </style:style>
-  <style:style style:name="Table7" style:family="table">
-   <style:table-properties style:width="10.379cm" table:align="margins" style:may-break-between-rows="false"/>
-  </style:style>
-  <style:style style:name="Table7.A" style:family="table-column">
-   <style:table-column-properties style:column-width="9.421cm" style:rel-column-width="59492*"/>
-  </style:style>
-  <style:style style:name="Table7.B" style:family="table-column">
-   <style:table-column-properties style:column-width="0.958cm" style:rel-column-width="6043*"/>
-  </style:style>
   <style:style style:name="Table160" style:family="table">
    <style:table-properties style:width="10.478cm" fo:margin-top="0.265cm" fo:margin-bottom="0.265cm" table:align="margins" style:may-break-between-rows="false" style:writing-mode="page"/>
   </style:style>
@@ -8943,6 +8907,42 @@
   </style:style>
   <style:style style:name="Table174.A" style:family="table-column">
    <style:table-column-properties style:column-width="10.478cm" style:rel-column-width="65535*"/>
+  </style:style>
+  <style:style style:name="Table7" style:family="table">
+   <style:table-properties style:width="10.379cm" table:align="margins" style:may-break-between-rows="false"/>
+  </style:style>
+  <style:style style:name="Table7.A" style:family="table-column">
+   <style:table-column-properties style:column-width="9.421cm" style:rel-column-width="59492*"/>
+  </style:style>
+  <style:style style:name="Table7.B" style:family="table-column">
+   <style:table-column-properties style:column-width="0.958cm" style:rel-column-width="6043*"/>
+  </style:style>
+  <style:style style:name="Table2" style:family="table">
+   <style:table-properties style:width="10.379cm" table:align="margins" style:may-break-between-rows="false"/>
+  </style:style>
+  <style:style style:name="Table2.A" style:family="table-column">
+   <style:table-column-properties style:column-width="1.099cm" style:rel-column-width="6939*"/>
+  </style:style>
+  <style:style style:name="Table2.B" style:family="table-column">
+   <style:table-column-properties style:column-width="9.28cm" style:rel-column-width="58596*"/>
+  </style:style>
+  <style:style style:name="Table1" style:family="table">
+   <style:table-properties table:align="margins" style:may-break-between-rows="false"/>
+  </style:style>
+  <style:style style:name="Table1.A" style:family="table-column">
+   <style:table-column-properties style:rel-column-width="60857*"/>
+  </style:style>
+  <style:style style:name="Table1.B" style:family="table-column">
+   <style:table-column-properties style:rel-column-width="4678*"/>
+  </style:style>
+  <style:style style:name="Table8" style:family="table">
+   <style:table-properties table:align="margins" style:may-break-between-rows="false" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Table8.A" style:family="table-column">
+   <style:table-column-properties style:rel-column-width="59492*"/>
+  </style:style>
+  <style:style style:name="Table8.B" style:family="table-column">
+   <style:table-column-properties style:rel-column-width="6043*"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="00425105"/>
@@ -9635,213 +9635,237 @@
   <style:style style:name="P229" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral_20_Example">
    <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P230" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="Right_20_Page">
+  <style:style style:name="P230" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00425105"/>
+  </style:style>
+  <style:style style:name="P231" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00cd1b26" officeooo:paragraph-rsid="00cd1b26"/>
+  </style:style>
+  <style:style style:name="P232" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0011dbfd"/>
+  </style:style>
+  <style:style style:name="P233" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:paragraph-rsid="01d5772f"/>
+  </style:style>
+  <style:style style:name="P234" style:family="paragraph" style:parent-style-name="Footer_20_right">
+   <style:text-properties officeooo:paragraph-rsid="00a8de17"/>
+  </style:style>
+  <style:style style:name="P235" style:family="paragraph" style:parent-style-name="Footer_20_right">
+   <style:text-properties officeooo:paragraph-rsid="005bcbd8"/>
+  </style:style>
+  <style:style style:name="P236" style:family="paragraph" style:parent-style-name="Footer_20_right">
+   <style:text-properties officeooo:rsid="0011dbfd" officeooo:paragraph-rsid="0011dbfd"/>
+  </style:style>
+  <style:style style:name="P237" style:family="paragraph" style:parent-style-name="Footer_20_right">
+   <style:text-properties officeooo:paragraph-rsid="0011dbfd"/>
+  </style:style>
+  <style:style style:name="P238" style:family="paragraph" style:parent-style-name="Footer_20_left">
+   <style:text-properties officeooo:paragraph-rsid="00425105"/>
+  </style:style>
+  <style:style style:name="P239" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00c6cd44" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P240" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00e368a6" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P241" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="012d3c03" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P242" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="010e7d3f" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P243" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P244" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="007dbb63" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P245" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="010011bd" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P246" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00d0fce8" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P247" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P248" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="0124e135" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P249" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00f8afca" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P250" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00df45a6" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P251" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00e55cea" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P252" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="00a62d40" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P253" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="0080e33b" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P254" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P255" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="00dd2e11" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P256" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="00f2caf1" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P257" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="00f263d9" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P258" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="00f57e6d" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P259" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="00d4b79b" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P260" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="0110fcf3" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P261" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="00e368a6" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P262" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="010b2e84" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P263" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="010e7d3f" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P264" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:paragraph-rsid="01d5d2df"/>
+  </style:style>
+  <style:style style:name="P265" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="011b6016" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P266" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="01145792" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P267" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="01042468" officeooo:paragraph-rsid="01dd41c7"/>
+  </style:style>
+  <style:style style:name="P268" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="01042468" officeooo:paragraph-rsid="01de27a3"/>
+  </style:style>
+  <style:style style:name="P269" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="009eee8c" officeooo:paragraph-rsid="01e277d0"/>
+  </style:style>
+  <style:style style:name="P270" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="009eee8c" officeooo:paragraph-rsid="01e4523f"/>
+  </style:style>
+  <style:style style:name="P271" style:family="paragraph" style:parent-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="0137d032" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P272" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="0137d032" officeooo:paragraph-rsid="01fce934"/>
+  </style:style>
+  <style:style style:name="P273" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
+   <style:text-properties officeooo:rsid="00a4450a" officeooo:paragraph-rsid="01fd5295"/>
+  </style:style>
+  <style:style style:name="P274" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
+   <style:text-properties officeooo:paragraph-rsid="01eb4e38"/>
+  </style:style>
+  <style:style style:name="P275" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
+   <style:text-properties officeooo:paragraph-rsid="01eba474"/>
+  </style:style>
+  <style:style style:name="P276" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
+   <style:text-properties officeooo:paragraph-rsid="01f434f4"/>
+  </style:style>
+  <style:style style:name="P277" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
+   <style:text-properties officeooo:paragraph-rsid="01f5c531"/>
+  </style:style>
+  <style:style style:name="P278" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
+   <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P279" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
+   <style:text-properties officeooo:rsid="00fb1906" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P280" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
+   <style:text-properties officeooo:rsid="00f9c89e" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P281" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
+   <style:text-properties officeooo:rsid="00fd76a5" officeooo:paragraph-rsid="01f0ef12"/>
+  </style:style>
+  <style:style style:name="P282" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
+   <style:text-properties officeooo:rsid="00fd8fd1" officeooo:paragraph-rsid="01f1ff74"/>
+  </style:style>
+  <style:style style:name="P283" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
+   <style:text-properties officeooo:rsid="00fd8fd1" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P284" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
+   <style:text-properties officeooo:rsid="00fe6732" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P285" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
+   <style:text-properties officeooo:rsid="0100265b" officeooo:paragraph-rsid="01f219ca"/>
+  </style:style>
+  <style:style style:name="P286" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
+   <style:text-properties officeooo:rsid="0100265b" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P287" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
+   <style:text-properties officeooo:rsid="00a061bb" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P288" style:family="paragraph" style:parent-style-name="Note_20_-_20_Example">
+   <style:text-properties officeooo:rsid="00cf268f" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P289" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip" style:list-style-name="Note_20_-_20_Tip_20_Logo">
+   <style:text-properties officeooo:rsid="00e5cd97" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P290" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="01235f01" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P291" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="00cf268f" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P292" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="00961a6f" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P293" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="0089e603" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P294" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="009eee8c" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P295" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="00f9c89e" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P296" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
+   <style:text-properties officeooo:rsid="00a4450a" officeooo:paragraph-rsid="01cb5566"/>
+  </style:style>
+  <style:style style:name="P297" style:family="paragraph" style:parent-style-name="Chapter_20_Number" style:master-page-name="Right_20_Page">
    <style:paragraph-properties style:page-number="auto"/>
    <style:text-properties officeooo:rsid="0134a627" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P231" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:paragraph-rsid="01d5772f"/>
-  </style:style>
-  <style:style style:name="P232" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral_20_Example">
-   <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P233" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00d0fce8" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P234" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P235" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="0124e135" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P236" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00f8afca" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P237" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00df45a6" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P238" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00e55cea" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P239" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="00a62d40" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P240" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="00d4b79b" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P241" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="0110fcf3" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P242" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="00e368a6" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P243" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="010b2e84" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P244" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="010e7d3f" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P245" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:paragraph-rsid="01d5d2df"/>
-  </style:style>
-  <style:style style:name="P246" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="011b6016" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P247" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="01145792" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P248" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="01042468" officeooo:paragraph-rsid="01dd41c7"/>
-  </style:style>
-  <style:style style:name="P249" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="01042468" officeooo:paragraph-rsid="01de27a3"/>
-  </style:style>
-  <style:style style:name="P250" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="009eee8c" officeooo:paragraph-rsid="01e277d0"/>
-  </style:style>
-  <style:style style:name="P251" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="009eee8c" officeooo:paragraph-rsid="01e4523f"/>
-  </style:style>
-  <style:style style:name="P252" style:family="paragraph" style:parent-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="0137d032" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P253" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="0137d032" officeooo:paragraph-rsid="01fce934"/>
-  </style:style>
-  <style:style style:name="P254" style:family="paragraph" style:parent-style-name="Bulleted" style:list-style-name="Bulleted">
-   <style:text-properties officeooo:rsid="00a4450a" officeooo:paragraph-rsid="01fd5295"/>
-  </style:style>
-  <style:style style:name="P255" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip" style:list-style-name="Note_20_-_20_Tip_20_Logo">
-   <style:text-properties officeooo:rsid="00e5cd97" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P256" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="01235f01" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P257" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="00cf268f" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P258" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="00961a6f" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P259" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="0089e603" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P260" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="009eee8c" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P261" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="00f9c89e" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P262" style:family="paragraph" style:parent-style-name="Note_20_-_20_Tip">
-   <style:text-properties officeooo:rsid="00a4450a" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P263" style:family="paragraph" style:parent-style-name="Note_20_-_20_Example">
-   <style:text-properties officeooo:rsid="00cf268f" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P264" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00c6cd44" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P265" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
-   <style:text-properties officeooo:paragraph-rsid="01eb4e38"/>
-  </style:style>
-  <style:style style:name="P266" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
-   <style:text-properties officeooo:paragraph-rsid="01eba474"/>
-  </style:style>
-  <style:style style:name="P267" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
-   <style:text-properties officeooo:paragraph-rsid="01f434f4"/>
-  </style:style>
-  <style:style style:name="P268" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
-   <style:text-properties officeooo:paragraph-rsid="01f5c531"/>
-  </style:style>
-  <style:style style:name="P269" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
-   <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P270" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
-   <style:text-properties officeooo:rsid="00fb1906" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P271" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
-   <style:text-properties officeooo:rsid="00f9c89e" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P272" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
-   <style:text-properties officeooo:rsid="00fd76a5" officeooo:paragraph-rsid="01f0ef12"/>
-  </style:style>
-  <style:style style:name="P273" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
-   <style:text-properties officeooo:rsid="00fd8fd1" officeooo:paragraph-rsid="01f1ff74"/>
-  </style:style>
-  <style:style style:name="P274" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
-   <style:text-properties officeooo:rsid="00fd8fd1" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P275" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
-   <style:text-properties officeooo:rsid="00fe6732" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P276" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral" style:list-style-name="Arabic_20_Numerals">
-   <style:text-properties officeooo:rsid="0100265b" officeooo:paragraph-rsid="01f219ca"/>
-  </style:style>
-  <style:style style:name="P277" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
-   <style:text-properties officeooo:rsid="0100265b" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P278" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral">
-   <style:text-properties officeooo:rsid="00a061bb" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P279" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="0080e33b" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P280" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P281" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="00dd2e11" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P282" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="00f2caf1" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P283" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="00f263d9" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P284" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:rsid="00f57e6d" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P285" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P298" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00deee9b" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P286" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P299" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="007dbb63" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P287" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P300" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00954a62" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P288" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P301" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P289" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P302" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00f10db8" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P290" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P303" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="0108c1db" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P291" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P304" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00fd76a5" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P292" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
+  <style:style style:name="P305" style:family="paragraph" style:parent-style-name="Note_20_-_20_Caution">
    <style:text-properties officeooo:rsid="00e50c4a" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
-  <style:style style:name="P293" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00e368a6" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P294" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="012d3c03" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P295" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="010e7d3f" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P296" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P306" style:family="paragraph" style:parent-style-name="Arabic_20_Numeral_20_Example">
    <style:text-properties officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P297" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="007dbb63" officeooo:paragraph-rsid="01cb5566"/>
-  </style:style>
-  <style:style style:name="P298" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="010011bd" officeooo:paragraph-rsid="01cb5566"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00dcb563"/>
@@ -10512,7 +10536,7 @@
      <table:table-column table:style-name="Table2.B"/>
      <table:table-row>
       <table:table-cell office:value-type="string">
-       <text:p text:style-name="Footer_20_left"><text:page-number text:select-page="current">24</text:page-number>.</text:p>
+       <text:p text:style-name="Footer_20_left"><text:page-number text:select-page="current">32</text:page-number>.</text:p>
       </table:table-cell>
       <table:table-cell office:value-type="string">
        <text:p text:style-name="P10">Designing with LibreOffice</text:p>
@@ -10532,7 +10556,7 @@
        <text:p text:style-name="Footer_20_left"><text:chapter text:display="name" text:outline-level="1">样式化页面</text:chapter></text:p>
       </table:table-cell>
       <table:table-cell office:value-type="string">
-       <text:p text:style-name="P11"><text:page-number text:select-page="current">23</text:page-number>.</text:p>
+       <text:p text:style-name="P11"><text:page-number text:select-page="current">31</text:page-number>.</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table>
@@ -10558,7 +10582,7 @@
    <text:user-field-decls>
     <text:user-field-decl office:value-type="float" office:value="0" text:name="MD"/>
    </text:user-field-decls>
-   <text:p text:style-name="P230">8</text:p>
+   <text:p text:style-name="P297">8</text:p>
    <text:h text:style-name="P175" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc2663_17922340"/>样式化页面<text:bookmark-end text:name="__RefHeading___Toc2663_17922340"/></text:h>
    <text:p text:style-name="P36">页面样式是 <text:span text:style-name="T140">Writer 的与众不同的特性之一。大多数文字处理器拥有字符样式和段落样式，但是，拥有页面样式这一点使得 Writer 升格为一种进阶级桌面出版系统，并且赋予了它巨大的灵活性。</text:span></text:p>
    <text:p text:style-name="P109">页面样式之所以重要，是由于设计页面是字体排印学的核心。很多书的整本都是基于这一主题而撰写的，它们中的很多充满了由复杂的示意图所支持的深奥理论，而它们从创作的实践角度来看又通常显得抽象。事实上，直到数字字体排印学的兴起，页面基本上一直都是创作的主要单元。</text:p>
@@ -14527,9 +14551,9 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list2221245807" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list3658913444" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
-     <text:p text:style-name="P255">提示</text:p>
+     <text:p text:style-name="P289">提示</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P125"><text:span text:style-name="T143">“下一样式”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T17">Next </text:span></text:span><text:span text:style-name="Choice">Style</text:span><text:span text:style-name="T143">）字段将会覆盖“页面”（</text:span><text:span text:style-name="Choice">Page</text:span><text:span text:style-name="T143">）选项卡中的“页面布局”（</text:span><text:span text:style-name="Choice">Page Layout</text:span><text:span text:style-name="T143">）字段。例如，如果一个页面被设置为“仅左页”（</text:span><text:span text:style-name="Choice">Left Only</text:span><text:span text:style-name="T143">），则“下一样式”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T17">Next </text:span></text:span><text:span text:style-name="Choice">Style</text:span><text:span text:style-name="T143">）字段允许您将其用作右页。</text:span></text:p>
@@ -14539,7 +14563,7 @@
    <text:h text:style-name="P181" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2671_17922340"/>规划页面样式<text:bookmark-end text:name="__RefHeading___Toc2671_17922340"/></text:h>
    <text:p text:style-name="P46">默认页面设计可以是一种特定尺寸<text:span text:style-name="T143">，诸如“信封”（</text:span><text:span text:style-name="Choice">Envelope</text:span><text:span text:style-name="T143">）和“横向”（</text:span><text:span text:style-name="Choice">Landscape</text:span><text:span text:style-name="T143">），也可以是一种特定用途，诸如“尾注”（</text:span><text:span text:style-name="Choice">Endnote</text:span><text:span text:style-name="T143">）或者“索引”（</text:span><text:span text:style-name="Choice">Index</text:span><text:span text:style-name="T143">）。</text:span></text:p>
    <text:p text:style-name="P48">您还可以考虑添加用于如下用途的页面样式<text:span text:style-name="T143">：</text:span></text:p>
-   <text:list xml:id="list3958215517" text:style-name="Bulleted">
+   <text:list xml:id="list798574049" text:style-name="Bulleted">
     <text:list-item>
      <text:p text:style-name="P156">内容目录<text:span text:style-name="T143">；</text:span></text:p>
     </text:list-item>
@@ -14578,7 +14602,7 @@
    <text:p text:style-name="P49">您可以选择仅为一篇在线文档设计这些样式中的一种<text:span text:style-name="T145">，尽管现在很多读者喜欢在平板计算机或者宽屏显示器上阅读双页铺展视图。您也应该考虑一种双页铺展模式，如果该在线文档有可能被打印出来。不平衡的页眉或页脚可能会由于其笨拙的设计而吸引读者的注意力。</text:span></text:p>
    <text:h text:style-name="P177" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2675_17922340"/>设计首页<text:bookmark-end text:name="__RefHeading___Toc2675_17922340"/></text:h>
    <text:p text:style-name="P111">首页不仅仅指标题页，而是指一篇文档或者它的第一章开始的页面。首页一般是修改过的右页。它应该具有足够的区别，使其作为文档的一部分的开始看起来一目了然。</text:p>
-   <text:list xml:id="list95607436075723" text:continue-list="list2221245807" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list174346260227550" text:continue-list="list3658913444" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
      <text:p text:style-name="P213">提示</text:p>
     </text:list-item>
@@ -21563,7 +21587,7 @@
    <text:p text:style-name="P108"><text:span text:style-name="T29">纸张格式在样式的“页面”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T30">Page</text:span></text:span><text:span text:style-name="T29">）选项卡中进行设置。</text:span></text:p>
    <text:p text:style-name="P51">默认页面尺寸通常由您的区域设置决定<text:span text:style-name="T145">，并且应该根据您的需求或者打印机进行必要更改。在世界大多数地区，标准尺寸是 A4，但在北美的标准尺寸是 </text:span><text:span text:style-name="Choice"><text:span text:style-name="T28">L</text:span></text:span><text:span text:style-name="Choice">etter</text:span><text:span text:style-name="T145">。</text:span></text:p>
    <text:p text:style-name="P50">无论页面尺寸如何<text:span text:style-name="T145">，标准的方向是纵向（高大于宽）。另一种方向是横向（宽大于高）。</text:span></text:p>
-   <text:list xml:id="list95607453520765" text:continue-numbering="true" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list174347805596379" text:continue-numbering="true" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
      <text:p text:style-name="P214">提示</text:p>
     </text:list-item>
@@ -21574,7 +21598,7 @@
    <text:p text:style-name="P50">当然<text:span text:style-name="T146">，所有多页打印的纸张都需要在随后剪裁或者折叠。LibreOffice 并不支持剪裁标记，但是您仍然可以通过精确测量来将页面剪裁至所需尺寸。</text:span></text:p>
    <text:p text:style-name="P50">例如<text:span text:style-name="T146">，单张纸的宣传册通常双联打印（双面），并且在一面上拥有连续的框架用于第 2～3页，而在另一面拥有用于第 1、4 页的框架。</text:span></text:p>
    <text:p text:style-name="P50">如果您正在在线出版<text:span text:style-name="T147">，纸张大小或者方向都不重要，除非该文档可能被打印为 PDF 或者转换为一种电子书格式。</text:span></text:p>
-   <text:list xml:id="list4048748984" text:style-name="Note_20_-_20_Example_20_Logo">
+   <text:list xml:id="list2879695870" text:style-name="Note_20_-_20_Example_20_Logo">
     <text:list-item>
      <text:h text:style-name="P211" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2681_17922340"/>范例<text:span text:style-name="T147">：</text:span>A4/Letter 混合模板<text:bookmark-end text:name="__RefHeading___Toc2681_17922340"/></text:h>
     </text:list-item>
@@ -21582,7 +21606,7 @@
    <text:p text:style-name="P152">A4 是世界上大多数地区的标准页面尺寸<text:span text:style-name="T147">，而在美国和加拿大则是</text:span> Letter<text:span text:style-name="T147">。它们在尺寸上接近：</text:span>A4 宽 595 点<text:span text:style-name="T148">，长</text:span> 842 点<text:span text:style-name="T148">，而</text:span> Letter 宽 612 点<text:span text:style-name="T148">，长</text:span> 792 点<text:span text:style-name="T148">。</text:span></text:p>
    <text:p text:style-name="P154">如果您拥有国际受众，可以在两种尺寸上打印的模板也能成为一种形式的单一来源化。</text:p>
    <text:p text:style-name="P152">如需创建一个 A4/Letter 混合模板<text:span text:style-name="T148">：</text:span></text:p>
-   <text:list xml:id="list1833697995" text:style-name="Arabic_20_Numerals">
+   <text:list xml:id="list1787626952" text:style-name="Arabic_20_Numerals">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P229">创建一个用户定义的页面格式<text:span text:style-name="T148">，宽</text:span> 595 点<text:span text:style-name="T148">，高 792 点，分别为两种格式中的最小尺度。为了正常显示，所有内容必须位于此区域内；</text:span></text:p>
     </text:list-item>
@@ -21596,12 +21620,12 @@
    <text:p text:style-name="P153"><text:soft-page-break/>其结果不能完全满足两种格式之一<text:span text:style-name="T149">。然而有了这个模板，您可以从同一文件打印到两种尺寸，而非维护拥有相同内容的两个文件。</text:span></text:p>
    <text:h text:style-name="P178" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2667_17922340"/><text:reference-mark text:name="sStyling the page"/><text:reference-mark text:name="Styling the page"/>设置布局<text:bookmark-end text:name="__RefHeading___Toc2667_17922340"/></text:h>
    <text:p text:style-name="P104"><text:span text:style-name="T34">“页面”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Page</text:span></text:span><text:span text:style-name="T34">）选项卡上的“布局设置”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T149">Layout Settings</text:span></text:span><text:span text:style-name="T34">）为一幅页面设置基本格式。其中的“页面布局”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T35">Page</text:span></text:span><text:span text:style-name="T35"> </text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Layout</text:span></text:span><text:span text:style-name="T35">）设置提供了 4 种选择：</text:span></text:p>
-   <text:list xml:id="list95608868525121" text:continue-list="list3958215517" text:style-name="Bulleted">
+   <text:list xml:id="list174346871689062" text:continue-list="list798574049" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P231"><text:span text:style-name="T34">镜像（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Mirrored</text:span></text:span><text:span text:style-name="T34">）：此页面样式可用于左页和右页；</text:span></text:p>
+     <text:p text:style-name="P233"><text:span text:style-name="T34">镜像（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Mirrored</text:span></text:span><text:span text:style-name="T34">）：此页面样式可用于左页和右页；</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95607857394621" text:continue-list="list95607453520765" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list174346295411021" text:continue-list="list174347805596379" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
      <text:p text:style-name="P215">提示</text:p>
     </text:list-item>
@@ -25074,24 +25098,24 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list95607821663353" text:continue-list="list95608868525121" text:style-name="Bulleted">
+   <text:list xml:id="list174347901711795" text:continue-list="list174346871689062" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P245"><text:span text:style-name="T39">“右页和左页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T39">Right and Left</text:span></text:span><text:span text:style-name="T39">）：此页面样式同时用于右页和左页；</text:span></text:p>
+     <text:p text:style-name="P264"><text:span text:style-name="T39">“右页和左页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T39">Right and Left</text:span></text:span><text:span text:style-name="T39">）：此页面样式同时用于右页和左页；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P245"><text:span text:style-name="T39">“仅右页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T150">Only Right</text:span></text:span><text:span text:style-name="T39">）或者“仅左页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T39">Only Left</text:span></text:span><text:span text:style-name="T39">）：此页面样式仅用于右页或者仅用于左页。</text:span></text:p>
+     <text:p text:style-name="P264"><text:span text:style-name="T39">“仅右页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T150">Only Right</text:span></text:span><text:span text:style-name="T39">）或者“仅左页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T39">Only Left</text:span></text:span><text:span text:style-name="T39">）：此页面样式仅用于右页或者仅用于左页。</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list3033212364" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list1326633467" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
      <text:p text:style-name="P220">注意</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P140"><text:span text:style-name="T150">“页面布局”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Page Layout</text:span></text:span><text:span text:style-name="T150">）字段可以被“组织”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Organizer</text:span></text:span><text:span text:style-name="T150">）选项卡中的“下一样式”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Next style</text:span></text:span><text:span text:style-name="T150">）字段所覆盖。一般来说，这种覆盖意味着您可以忽略“页面布局”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Page Layout</text:span></text:span><text:span text:style-name="T150">）字段。</text:span></text:p>
-   <text:p text:style-name="P140"><text:span text:style-name="T34">然而在某些版本的 LibreOffice 中，有些组合会导致空白页或者其他格式问题。基于此原因，您应该保证不存在任何冲突，例如“下一样式”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Next style</text:span></text:span><text:span text:style-name="T34">）字段强制一种设置为“仅左页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Left only</text:span></text:span><text:span text:style-name="T34">）的页面样式出现于右页。否则，</text:span><text:soft-page-break/><text:span text:style-name="T34">由一种 LibreOffice 版本创建的页面样式可能不能如您本意那样在另一个版本中显示出来。</text:span></text:p>
+   <text:p text:style-name="P140"><text:span text:style-name="T34">然而在某些版本的 LibreOffice 中，有些组合会导致空白页或者其他格式问题。基于此原因，您应该保证不存在任何冲突，例如“下一样式”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Next style</text:span></text:span><text:span text:style-name="T34">）字段强制一种设置为“仅左页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T34">Left only</text:span></text:span><text:span text:style-name="T34">）的页面样式出现于右页。否</text:span><text:soft-page-break/><text:span text:style-name="T34">则，由一种 LibreOffice 版本创建的页面样式可能不能如您本意那样在另一个版本中显示出来。</text:span></text:p>
    <text:h text:style-name="P182" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2683_17922340"/>设置页边距<text:bookmark-end text:name="__RefHeading___Toc2683_17922340"/></text:h>
    <text:p text:style-name="P55">页边距在页面样式的<text:span text:style-name="T151">“页面”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T42">Page</text:span></text:span><text:span text:style-name="T151">）选项卡中进行设置。所有页边距都拥有 3 种目的：</text:span></text:p>
-   <text:list xml:id="list95608743967396" text:continue-list="list95607821663353" text:style-name="Bulleted">
+   <text:list xml:id="list174348231575074" text:continue-list="list174347901711795" text:style-name="Bulleted">
     <text:list-item>
      <text:p text:style-name="P174">使读者能够拿起纸版书而不会让手指遮挡部分文字；</text:p>
     </text:list-item>
@@ -25103,14 +25127,14 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P56">第三<text:span text:style-name="T151">条尤其重要，不像前两条，它适用于所有文档，不论其采用何种媒介。</text:span></text:p>
-   <text:list xml:id="list95607233165878" text:continue-list="list3033212364" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list174347519983417" text:continue-list="list1326633467" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
      <text:p text:style-name="P221">注意</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P136">这些目的都不应该被忽略<text:span text:style-name="T151">，</text:span>而代之以年代久远的学生式努力<text:span text:style-name="T151">，即试图将文字适配到一定数量的页面中。</text:span></text:p>
    <text:p text:style-name="P136">这些努力不仅显而易见<text:span text:style-name="T151">，并且通常由于过宽或者过窄而吸引读者对于文字的注意力。</text:span></text:p>
-   <text:list xml:id="list95608772426860" text:continue-numbering="true" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list174347785137217" text:continue-numbering="true" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
      <text:p text:style-name="P222">注意</text:p>
     </text:list-item>
@@ -26855,15 +26879,15 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P58">一系列更加灵活的规则可以从主流理论和布局之中精炼出来<text:span text:style-name="T155">：</text:span></text:p>
-   <text:list xml:id="list95608451812965" text:continue-list="list95608743967396" text:style-name="Bulleted">
+   <text:list xml:id="list174347402757599" text:continue-list="list174348231575074" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P248"><text:soft-page-break/>使得顶<text:span text:style-name="T155">（</text:span><text:span text:style-name="Choice">top</text:span><text:span text:style-name="T155">）边距大于内（</text:span><text:span text:style-name="Choice">inner</text:span><text:span text:style-name="T155">）边距；</text:span></text:p>
+     <text:p text:style-name="P267"><text:soft-page-break/>使得顶<text:span text:style-name="T155">（</text:span><text:span text:style-name="Choice">top</text:span><text:span text:style-name="T155">）边距大于内（</text:span><text:span text:style-name="Choice">inner</text:span><text:span text:style-name="T155">）边距；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P249">使得外<text:span text:style-name="T155">（</text:span><text:span text:style-name="Choice">outer</text:span><text:span text:style-name="T155">）</text:span>边距等于或大于内<text:span text:style-name="T155">（</text:span><text:span text:style-name="Choice">inner</text:span><text:span text:style-name="T155">）</text:span>边距<text:span text:style-name="T155">。对于打印的文档，外（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T53">outer</text:span></text:span><text:span text:style-name="T155">）页边应该足够宽，使得页面或者书本可以被舒适地拿起来；</text:span></text:p>
+     <text:p text:style-name="P268">使得外<text:span text:style-name="T155">（</text:span><text:span text:style-name="Choice">outer</text:span><text:span text:style-name="T155">）</text:span>边距等于或大于内<text:span text:style-name="T155">（</text:span><text:span text:style-name="Choice">inner</text:span><text:span text:style-name="T155">）</text:span>边距<text:span text:style-name="T155">。对于打印的文档，外（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T53">outer</text:span></text:span><text:span text:style-name="T155">）页边应该足够宽，使得页面或者书本可以被舒适地拿起来；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P249">使得底<text:span text:style-name="T156">（</text:span><text:span text:style-name="Choice">bottom</text:span><text:span text:style-name="T156">）</text:span>边距高于顶<text:span text:style-name="T156">（</text:span><text:span text:style-name="Choice">top</text:span><text:span text:style-name="T156">）</text:span>边距<text:span text:style-name="T156">。</text:span></text:p>
+     <text:p text:style-name="P268">使得底<text:span text:style-name="T156">（</text:span><text:span text:style-name="Choice">bottom</text:span><text:span text:style-name="T156">）</text:span>边距高于顶<text:span text:style-name="T156">（</text:span><text:span text:style-name="Choice">top</text:span><text:span text:style-name="T156">）</text:span>边距<text:span text:style-name="T156">。</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P62">所有页边距都应该是行距的倍数<text:span text:style-name="T156">。</text:span></text:p>
@@ -26872,13 +26896,13 @@
    <text:p text:style-name="P65">如果您的文档将要被打印并且装订<text:span text:style-name="T157">，内（</text:span><text:span text:style-name="Choice">inner</text:span><text:span text:style-name="T157">）页边需要额外的空间用于装订。这些空间将会使得双页铺展视图在您的显示器上看起来不平衡，但却能够防止最终产品中的文字被掩埋在沟壑（双页铺展的中间位置，页面的边缘在此处被装订起来）之中。</text:span></text:p>
    <text:p text:style-name="P64">装订所需的精确空间取决于装订类型以及所选择的接头部件<text:span text:style-name="T157">。例如，一本螺线装订的书本可以使用不同尺寸的螺线圈。</text:span></text:p>
    <text:p text:style-name="P66">您应该咨询您的印刷商<text:span text:style-name="T158">，但是在大多数情况下，您很可能需要至少 20</text:span><text:span text:style-name="T27">–</text:span><text:span text:style-name="T49">45 点的额外内边距，也许还要更多。</text:span></text:p>
-   <text:list xml:id="list95608250705418" text:continue-list="list95607857394621" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list174348234046625" text:continue-list="list174346295411021" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
      <text:p text:style-name="P216">提示</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P142">如果您不确定将会使用何种装订方式<text:span text:style-name="T158">，过宽的内（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T158">inner</text:span></text:span><text:span text:style-name="T158">）页边比过窄的更容易调整。</text:span></text:p>
-   <text:list xml:id="list95609132668394" text:continue-list="list95608772426860" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list174348219759152" text:continue-list="list174347785137217" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
      <text:p text:style-name="P223">注意</text:p>
     </text:list-item>
@@ -29655,7 +29679,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P70">如果您确实同时选择了二者<text:span text:style-name="T159">，一种显而易见的编排方式是将其中之一仅用于页码，这是页眉或页脚中最可能用到的信息。</text:span></text:p>
-   <text:list xml:id="list95608717517777" text:continue-numbering="true" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list174346499190257" text:continue-numbering="true" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
      <text:p text:style-name="P224"><text:soft-page-break/>注意</text:p>
     </text:list-item>
@@ -29670,24 +29694,24 @@
    <text:p text:style-name="P73">一种更加可靠的解决方案是添加一个具有不可见的边框以及您所需要的列数的单行表格<text:span text:style-name="T160">。这种技术意味着相对于使用制表符较少的自发更改，因此意味着更少的工作量。您将会特别感激表格带来的便利，如果的您的文档可能维持数年并且经历若干个 LibreOffice 版本。</text:span></text:p>
    <text:h text:style-name="P183" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2695_17922340"/><text:soft-page-break/>格式化页眉和页脚<text:bookmark-end text:name="__RefHeading___Toc2695_17922340"/></text:h>
    <text:p text:style-name="P70">在启用页眉或页脚的复选框下方是一些基本的格式化选项<text:span text:style-name="T160">：</text:span></text:p>
-   <text:list xml:id="list95607406984167" text:continue-list="list95608451812965" text:style-name="Bulleted">
+   <text:list xml:id="list174347463669691" text:continue-list="list174347402757599" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P250"><text:span text:style-name="T160">“左边距”（</text:span><text:span text:style-name="Choice">Left margin</text:span><text:span text:style-name="T160">）和右边距（</text:span><text:span text:style-name="Choice">Right </text:span><text:span text:style-name="Choice"><text:span text:style-name="T73">m</text:span></text:span><text:span text:style-name="Choice">argin</text:span><text:span text:style-name="T160">）：用于页眉和页脚的页边距位于页面的页边距之外。通常，这些值可以被设置为 0，由于页眉和页脚很少比正文缩进得更多；</text:span></text:p>
+     <text:p text:style-name="P269"><text:span text:style-name="T160">“左边距”（</text:span><text:span text:style-name="Choice">Left margin</text:span><text:span text:style-name="T160">）和右边距（</text:span><text:span text:style-name="Choice">Right </text:span><text:span text:style-name="Choice"><text:span text:style-name="T73">m</text:span></text:span><text:span text:style-name="Choice">argin</text:span><text:span text:style-name="T160">）：用于页眉和页脚的页边距位于页面的页边距之外。通常，这些值可以被设置为 0，由于页眉和页脚很少比正文缩进得更多；</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95608835349375" text:continue-list="list95608250705418" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list174347901583109" text:continue-list="list174348234046625" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
      <text:p text:style-name="P217">提示</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P129">您不能通过输入一个负值以使得页眉或页脚延伸至左或右页边中<text:span text:style-name="T160">。</text:span></text:p>
    <text:p text:style-name="P129">如果您确实想要这种编排方式<text:span text:style-name="T160">，您必须为您的段落样式设置左侧和右侧缩进，以使其相对于页眉或页脚占用较短的一行。</text:span></text:p>
-   <text:list xml:id="list95609334924660" text:continue-list="list95607406984167" text:style-name="Bulleted">
+   <text:list xml:id="list174346278717657" text:continue-list="list174347463669691" text:style-name="Bulleted">
     <text:list-item>
-     <text:p text:style-name="P251"><text:span text:style-name="T161">“间隔”（</text:span><text:span text:style-name="Choice">Spacing</text:span><text:span text:style-name="T161">）：页眉和页脚与主文本框架之间的距离。这一字段应该为行距的倍数。如果这一距离足够宽，您可能不需要一条横线或是任何其他类型的分隔符来将页眉或页脚同正文分隔开来；</text:span></text:p>
+     <text:p text:style-name="P270"><text:span text:style-name="T161">“间隔”（</text:span><text:span text:style-name="Choice">Spacing</text:span><text:span text:style-name="T161">）：页眉和页脚与主文本框架之间的距离。这一字段应该为行距的倍数。如果这一距离足够宽，您可能不需要一条横线或是任何其他类型的分隔符来将页眉或页脚同正文分隔开来；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P251"><text:span text:style-name="T77">“高度”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T77">Height</text:span></text:span><text:span text:style-name="T77">）：用于页脚的行高。通常，这一高度应该是正文的行距。如果您在页脚或页眉中包含一幅重复出现的图像，那么此高度（</text:span><text:span text:style-name="Choice">Height</text:span><text:span text:style-name="T77">）至少需要是该图像的高度。</text:span></text:p>
+     <text:p text:style-name="P270"><text:span text:style-name="T77">“高度”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T77">Height</text:span></text:span><text:span text:style-name="T77">）：用于页脚的行高。通常，这一高度应该是正文的行距。如果您在页脚或页眉中包含一幅重复出现的图像，那么此高度（</text:span><text:span text:style-name="Choice">Height</text:span><text:span text:style-name="T77">）至少需要是该图像的高度。</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P190" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2697_17922340"/>调整边框和背景<text:bookmark-end text:name="__RefHeading___Toc2697_17922340"/></text:h>
@@ -37449,7 +37473,7 @@
      <table:covered-table-cell/>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list95608374650240" text:continue-list="list95608835349375" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list174348289285202" text:continue-list="list174347901583109" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
      <text:p text:style-name="P217">提示</text:p>
     </text:list-item>
@@ -37461,25 +37485,25 @@
    <text:p text:style-name="P53">简略<text:span text:style-name="T167">（running）</text:span>页眉<text:span text:style-name="T167">（或页脚）总是根据某一特定段落样式的最近一个实例而变化。通过这种方式，它们为读者提供了一种用于定位某种段落的导引。</text:span></text:p>
    <text:p text:style-name="P84">例如<text:span text:style-name="T167">，您可能拥有一种用于左页的页眉，它会重复上一处“标题 1”（</text:span><text:span text:style-name="Choice">Heading 1</text:span><text:span text:style-name="T167">）段落样式的文字。如果“标题 1”（</text:span><text:span text:style-name="Choice">Heading 1</text:span><text:span text:style-name="T167">）仅用于章标题，那么该页眉将总是包括章标题。</text:span><text:soft-page-break/><text:span text:style-name="T167">然后您可以拥有一种右页页眉以重复“标题 2”（</text:span><text:span text:style-name="Choice">Heading 2</text:span><text:span text:style-name="T167">）的文字以帮助读者获知他们读到了这一章中的什么位置。</text:span></text:p>
    <text:p text:style-name="P115"><text:span text:style-name="T88">简略页眉或页脚可以利用任何被设置为提纲级别的段落样式来设置。在默认情况下，这意味着使用标题样式。参见第 </text:span><text:span text:style-name="T88"><text:bookmark-ref text:reference-format="page" text:ref-name="__RefHeading___Toc2699_17922340">18</text:bookmark-ref></text:span><text:span text:style-name="T88"><text:s/>页“</text:span><text:span text:style-name="T88"><text:bookmark-ref text:reference-format="text" text:ref-name="__RefHeading___Toc2699_17922340">添加页眉和页脚段落样式</text:bookmark-ref></text:span><text:span text:style-name="T88">”。</text:span></text:p>
-   <text:list xml:id="list95608811517379" text:continue-list="list95608717517777" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list174347671271370" text:continue-list="list174346499190257" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
      <text:p text:style-name="P225">注意</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P130">如果多于一种段落样式被关联到同一提纲级别<text:span text:style-name="T167">，您可能会遇到意外的结果。</text:span></text:p>
    <text:p text:style-name="P53">如需设置简略页眉或页脚<text:span text:style-name="T167">：</text:span></text:p>
-   <text:list xml:id="list95608159290520" text:continue-list="list1833697995" text:style-name="Arabic_20_Numerals">
+   <text:list xml:id="list174348172972079" text:continue-list="list1787626952" text:style-name="Arabic_20_Numerals">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P265">在<text:span text:style-name="T167">“文字流”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Text Flow</text:span></text:span><text:span text:style-name="T167">）选项卡上设置一种段落样式使其开始新的一页。默认值是“标题 1”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Heading 1</text:span></text:span><text:span text:style-name="T167">），但是“主题”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Title</text:span></text:span><text:span text:style-name="T167">）或者诸如“章号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Chapter Number</text:span></text:span><text:span text:style-name="T167">）等自定义样式可以较少地引起混淆；</text:span></text:p>
+     <text:p text:style-name="P274">在<text:span text:style-name="T167">“文字流”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Text Flow</text:span></text:span><text:span text:style-name="T167">）选项卡上设置一种段落样式使其开始新的一页。默认值是“标题 1”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Heading 1</text:span></text:span><text:span text:style-name="T167">），但是“主题”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Title</text:span></text:span><text:span text:style-name="T167">）或者诸如“章号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Chapter Number</text:span></text:span><text:span text:style-name="T167">）等自定义样式可以较少地引起混淆；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P265">从<text:span text:style-name="T167">“工具 &gt; 提纲编号 &gt; 编号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Tools &gt; Outline Numbering &gt; Numbering</text:span></text:span><text:span text:style-name="T167">）中将您正在使用的段落样式关联到一个提纲级别，如果您还没有如此做；</text:span></text:p>
+     <text:p text:style-name="P274">从<text:span text:style-name="T167">“工具 &gt; 提纲编号 &gt; 编号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T167">Tools &gt; Outline Numbering &gt; Numbering</text:span></text:span><text:span text:style-name="T167">）中将您正在使用的段落样式关联到一个提纲级别，如果您还没有如此做；</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P196">将鼠标光标置于页码区域<text:span text:style-name="T168">；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P266">选择<text:span text:style-name="T168">“插入 &gt; 字段 &gt; 文档 &gt; 更多 &gt; 章 &gt; 章号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T168">Insert &gt; Fields &gt; Document &gt; More &gt; Chapter &gt; Chapter Number</text:span></text:span><text:span text:style-name="T168">），然后点击“插入”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T168">Insert</text:span></text:span><text:span text:style-name="T168">）按钮；</text:span></text:p>
+     <text:p text:style-name="P275">选择<text:span text:style-name="T168">“插入 &gt; 字段 &gt; 文档 &gt; 更多 &gt; 章 &gt; 章号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T168">Insert &gt; Fields &gt; Document &gt; More &gt; Chapter &gt; Chapter Number</text:span></text:span><text:span text:style-name="T168">），然后点击“插入”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T168">Insert</text:span></text:span><text:span text:style-name="T168">）按钮；</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P196">对文档中的每一种包含页码的页面样式重复步骤 <text:span text:style-name="T168">3～4。</text:span></text:p>
@@ -37490,7 +37514,7 @@
    <text:p text:style-name="P122"><text:soft-page-break/>您也可以在纵向页面（高大于宽）上选择垂直页眉和页脚以带来一种新颖的效果。</text:p>
    <text:p text:style-name="P85">垂直页眉和页脚的缺点是页面样式不会在每一个实例处如同对于水平页眉和页脚那样重复它们<text:span text:style-name="T170">。与之相反，您必须在每一处实例重新创建它们，或者复制并粘贴它们。这些选择倾向于将它们限制在较短的文档中。</text:span></text:p>
    <text:p text:style-name="P86">如需创建垂直页眉和页脚<text:span text:style-name="T170">：</text:span></text:p>
-   <text:list xml:id="list95607535151558" text:continue-list="list95608159290520" text:style-name="Arabic_20_Numerals">
+   <text:list xml:id="list174347175968969" text:continue-list="list174348172972079" text:style-name="Arabic_20_Numerals">
     <text:list-item text:start-value="1">
      <text:p text:style-name="P197">添加横向页面<text:span text:style-name="T171">，如果它还没有被使用；</text:span></text:p>
     </text:list-item>
@@ -37498,35 +37522,35 @@
      <text:p text:style-name="P198">创建用于页眉或页脚的文字<text:span text:style-name="T171">，使用适当的段落样式并且添加字段，将其置于横向页面中的大约一半高度上；</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95609002703556" text:continue-list="list95608374650240" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list174347788713317" text:continue-list="list174348289285202" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
      <text:p text:style-name="P218">提示</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P131">如果您正在处理一篇已经拥有纵向页面的文档<text:span text:style-name="T171">，您可以将页眉或页脚复制并粘贴到另一个页面上。</text:span></text:p>
-   <text:list xml:id="list95607966186987" text:continue-list="list95607535151558" text:style-name="Arabic_20_Numerals">
+   <text:list xml:id="list174346508424435" text:continue-list="list174347175968969" text:style-name="Arabic_20_Numerals">
     <text:list-item>
-     <text:p text:style-name="P272">选择将要成为页眉或页脚的行<text:span text:style-name="T172">，然后选择“字符 &gt; 格式 &gt; 位置 &gt; 旋转/缩放 &gt; 90 度”（</text:span><text:span text:style-name="Choice">Character &gt; Format &gt; Position &gt; Rotation/Scaling &gt; 90 degrees</text:span><text:span text:style-name="T172">）或者“270 度”（</text:span><text:span text:style-name="Choice">270 degrees</text:span><text:span text:style-name="T172">）。90 度将文字放置为自底向上，而 270 度将文字放置为自顶向下；</text:span></text:p>
+     <text:p text:style-name="P281">选择将要成为页眉或页脚的行<text:span text:style-name="T172">，然后选择“字符 &gt; 格式 &gt; 位置 &gt; 旋转/缩放 &gt; 90 度”（</text:span><text:span text:style-name="Choice">Character &gt; Format &gt; Position &gt; Rotation/Scaling &gt; 90 degrees</text:span><text:span text:style-name="T172">）或者“270 度”（</text:span><text:span text:style-name="Choice">270 degrees</text:span><text:span text:style-name="T172">）。90 度将文字放置为自底向上，而 270 度将文字放置为自顶向下；</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list95607834706075" text:continue-list="list95608811517379" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list174346910786904" text:continue-list="list174347671271370" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
      <text:p text:style-name="P226">注意</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P133">当您点击<text:span text:style-name="T172">“确认”（</text:span>OK<text:span text:style-name="T172">）按钮时，制表符、边框、阴影以及段落样式以外的任何格式化将会消失。</text:span></text:p>
-   <text:list xml:id="list95608320556034" text:continue-list="list95607966186987" text:style-name="Arabic_20_Numerals">
+   <text:list xml:id="list174346642179124" text:continue-list="list174346508424435" text:style-name="Arabic_20_Numerals">
     <text:list-item>
-     <text:p text:style-name="P273"><text:span text:style-name="T107">选择现在成为垂直的行并且点击“插入 &gt; 框架”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T107">Insert &gt; Frame</text:span></text:span><text:span text:style-name="T107">）以将其置于一个框架中；</text:span></text:p>
+     <text:p text:style-name="P282"><text:span text:style-name="T107">选择现在成为垂直的行并且点击“插入 &gt; 框架”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T107">Insert &gt; Frame</text:span></text:span><text:span text:style-name="T107">）以将其置于一个框架中；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P274">将此框架置于内页边或外页边之外<text:span text:style-name="T173">，它在此处将作为页眉或页脚而存在。如果您正在处理一篇已经存在的文档，检查另</text:span><text:soft-page-break/><text:span text:style-name="T173">一种页面样式以便查看在其他页面样式中，页眉或页脚距离正文主体多远。打开网格功能以辅助您定位该框架；</text:span></text:p>
+     <text:p text:style-name="P283">将此框架置于内页边或外页边之外<text:span text:style-name="T173">，它在此处将作为页眉或页脚而存在。如果您正在处理一篇已经存在的文档，检查另</text:span><text:soft-page-break/><text:span text:style-name="T173">一种页面样式以便查看在其他页面样式中，页眉或页脚距离正文主体多远。打开网格功能以辅助您定位该框架；</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P203">调整框架的大小使其占据顶页边和底页边之间的全部空间<text:span text:style-name="T174">。为了精确，您可以从页高度中减去顶边距和底边距以得到该框架应该具有的精确大小。然而，在足够高的缩放比例视图中，文字的边界可能足以为您提供引导；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P276">右键点击该框架并且从右键上下文菜单中选择<text:span text:style-name="T174">“框架”（</text:span><text:span text:style-name="Choice">Frame</text:span><text:span text:style-name="T174">）以添加或关闭任何边框或阴影；</text:span></text:p>
+     <text:p text:style-name="P285">右键点击该框架并且从右键上下文菜单中选择<text:span text:style-name="T174">“框架”（</text:span><text:span text:style-name="Choice">Frame</text:span><text:span text:style-name="T174">）以添加或关闭任何边框或阴影；</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P204">按需重复<text:span text:style-name="T174">。</text:span></text:p>
@@ -41644,21 +41668,21 @@
    <text:p text:style-name="P44">取决于 LibreOffice 版本<text:span text:style-name="T176">，这种覆盖可能会导致格式问题，因此请使得所有设置保持一致。</text:span></text:p>
    <text:h text:style-name="P195" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2707_17922340"/><text:reference-mark-start text:name="Adding chapter numbers to page numbers"/>将章号添加到页码<text:bookmark-end text:name="__RefHeading___Toc2707_17922340"/><text:reference-mark-end text:name="Adding chapter numbers to page numbers"/></text:h>
    <text:p text:style-name="P53">如需在页码中包含章号<text:span text:style-name="T176">：</text:span></text:p>
-   <text:list xml:id="list95607943514601" text:continue-list="list95608320556034" text:style-name="Arabic_20_Numerals">
+   <text:list xml:id="list174348487286729" text:continue-list="list174346642179124" text:style-name="Arabic_20_Numerals">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P267">在<text:span text:style-name="T176">“文字流”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Text Flow</text:span></text:span><text:span text:style-name="T176">）选项卡中设置一种段落样式使其开始新的一页。默认值是“标题 1”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Heading 1</text:span></text:span><text:span text:style-name="T176">），但是“主题”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Title</text:span></text:span><text:span text:style-name="T176">）或者“章号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Chapter Number</text:span></text:span><text:span text:style-name="T176">）这样的自定义样式可以带来较少的混淆；</text:span></text:p>
+     <text:p text:style-name="P276">在<text:span text:style-name="T176">“文字流”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Text Flow</text:span></text:span><text:span text:style-name="T176">）选项卡中设置一种段落样式使其开始新的一页。默认值是“标题 1”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Heading 1</text:span></text:span><text:span text:style-name="T176">），但是“主题”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Title</text:span></text:span><text:span text:style-name="T176">）或者“章号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Chapter Number</text:span></text:span><text:span text:style-name="T176">）这样的自定义样式可以带来较少的混淆；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P267"><text:span text:style-name="T114">如有必要，从“工具 &gt; 提纲编号 &gt; 编号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T115">Tools &gt; Outline Numbering &gt; Numbering</text:span></text:span><text:span text:style-name="T114">）中将您正在使用的样式关联到“级别 1”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T115">Level 1</text:span></text:span><text:span text:style-name="T114">）。在“之后”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T114">After</text:span></text:span><text:span text:style-name="T114">）字段中添加一个分隔符，诸如连字符；</text:span></text:p>
+     <text:p text:style-name="P276"><text:span text:style-name="T114">如有必要，从“工具 &gt; 提纲编号 &gt; 编号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T115">Tools &gt; Outline Numbering &gt; Numbering</text:span></text:span><text:span text:style-name="T114">）中将您正在使用的样式关联到“级别 1”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T115">Level 1</text:span></text:span><text:span text:style-name="T114">）。在“之后”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T114">After</text:span></text:span><text:span text:style-name="T114">）字段中添加一个分隔符，诸如连字符；</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P196">将光标置于需要添加页码的位置<text:span text:style-name="T176">；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P267">选择<text:span text:style-name="T176">“插入 &gt; 字段 &gt; 文档 &gt; 更多字段 &gt; 章 &gt; 章号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Insert &gt; Fields &gt; Document &gt; More Fields &gt; Chapter &gt; Chapter number</text:span></text:span><text:span text:style-name="T176">），然后点击“插入”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Insert</text:span></text:span><text:span text:style-name="T176">）按钮；</text:span></text:p>
+     <text:p text:style-name="P276">选择<text:span text:style-name="T176">“插入 &gt; 字段 &gt; 文档 &gt; 更多字段 &gt; 章 &gt; 章号”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Insert &gt; Fields &gt; Document &gt; More Fields &gt; Chapter &gt; Chapter number</text:span></text:span><text:span text:style-name="T176">），然后点击“插入”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Insert</text:span></text:span><text:span text:style-name="T176">）按钮；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P267">选择<text:span text:style-name="T176">“插入 &gt; 字段 &gt; 更多字段 &gt; 文档 &gt; 页面 &gt; 页码”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Insert &gt; Fields &gt; More Fields &gt; Document &gt; Page &gt; Page Numbers</text:span></text:span><text:span text:style-name="T176">）（或者简单地“插入 &gt; 字段 &gt; 页码”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T94">Insert &gt; Fields &gt; Page Number</text:span></text:span><text:span text:style-name="T176">））来添加页码；</text:span></text:p>
+     <text:p text:style-name="P276">选择<text:span text:style-name="T176">“插入 &gt; 字段 &gt; 更多字段 &gt; 文档 &gt; 页面 &gt; 页码”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T176">Insert &gt; Fields &gt; More Fields &gt; Document &gt; Page &gt; Page Numbers</text:span></text:span><text:span text:style-name="T176">）（或者简单地“插入 &gt; 字段 &gt; 页码”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T94">Insert &gt; Fields &gt; Page Number</text:span></text:span><text:span text:style-name="T176">））来添加页码；</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P210"><text:soft-page-break/>为文档中的每一种包含“章-页”编号的段落样式重复步骤 3 和 5。</text:p>
@@ -41667,21 +41691,21 @@
    <text:h text:style-name="P190" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc2709_17922340"/>重新开始页码编号<text:bookmark-end text:name="__RefHeading___Toc2709_17922340"/></text:h>
    <text:p text:style-name="P53">重新开始页码编号的最常见场合是一篇文档以一段引言开始——通常以小写罗马数字编号<text:span text:style-name="T177">，然后跟着其余文本部分——通常以阿拉伯数字编号。</text:span></text:p>
    <text:p text:style-name="P53">如需重新开始页面计数<text:span text:style-name="T177">：</text:span></text:p>
-   <text:list xml:id="list95609703162441" text:continue-list="list95607943514601" text:style-name="Arabic_20_Numerals">
+   <text:list xml:id="list174347888112143" text:continue-list="list174348487286729" text:style-name="Arabic_20_Numerals">
     <text:list-item text:start-value="1">
-     <text:p text:style-name="P268">基于主要默认页面模型创建<text:span text:style-name="T177">“引言开始”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T119">Introduction Start</text:span></text:span><text:span text:style-name="T177">）、“引言左”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T119">Introduction Left</text:span></text:span><text:span text:style-name="T177">）和“引言右”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T114">Introduction Right</text:span></text:span><text:span text:style-name="T177">）页面样式。在这每一种自定义样式中，将“页面 &gt; 布局设置 &gt; 格式”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T119">Page &gt; Layout Settings &gt; Format</text:span></text:span><text:span text:style-name="T177">）设置为小写罗马数字；</text:span></text:p>
+     <text:p text:style-name="P277">基于主要默认页面模型创建<text:span text:style-name="T177">“引言开始”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T119">Introduction Start</text:span></text:span><text:span text:style-name="T177">）、“引言左”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T119">Introduction Left</text:span></text:span><text:span text:style-name="T177">）和“引言右”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T114">Introduction Right</text:span></text:span><text:span text:style-name="T177">）页面样式。在这每一种自定义样式中，将“页面 &gt; 布局设置 &gt; 格式”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T119">Page &gt; Layout Settings &gt; Format</text:span></text:span><text:span text:style-name="T177">）设置为小写罗马数字；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P268">在紧邻页面计数重新开始以及主体文本开始的页面之前的位置<text:span text:style-name="T177">选择“插入 &gt; 手动分隔符”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T177">Insert &gt; Manual Break</text:span></text:span><text:span text:style-name="T177">）；</text:span></text:p>
+     <text:p text:style-name="P277">在紧邻页面计数重新开始以及主体文本开始的页面之前的位置<text:span text:style-name="T177">选择“插入 &gt; 手动分隔符”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T177">Insert &gt; Manual Break</text:span></text:span><text:span text:style-name="T177">）；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P268">为<text:span text:style-name="T177">“类型”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T177">Type</text:span></text:span><text:span text:style-name="T177">）选择“分页符”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T177">Page Break</text:span></text:span><text:span text:style-name="T177">）；</text:span></text:p>
+     <text:p text:style-name="P277">为<text:span text:style-name="T177">“类型”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T177">Type</text:span></text:span><text:span text:style-name="T177">）选择“分页符”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T177">Page Break</text:span></text:span><text:span text:style-name="T177">）；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P268">选择用于分页符之后的页面样式<text:span text:style-name="T177">。您很可能想要使用“首页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T88">First Page</text:span></text:span><text:span text:style-name="T177">）；</text:span></text:p>
+     <text:p text:style-name="P277">选择用于分页符之后的页面样式<text:span text:style-name="T177">。您很可能想要使用“首页”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T88">First Page</text:span></text:span><text:span text:style-name="T177">）；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P268">选择<text:span text:style-name="T177">“改变页码”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T89">Change page number</text:span></text:span><text:span text:style-name="T177">），然后将页码设置为“重新开始于”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T114">Restart at</text:span></text:span><text:span text:style-name="T177">）。不可输入负值。</text:span></text:p>
+     <text:p text:style-name="P277">选择<text:span text:style-name="T177">“改变页码”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T89">Change page number</text:span></text:span><text:span text:style-name="T177">），然后将页码设置为“重新开始于”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T114">Restart at</text:span></text:span><text:span text:style-name="T177">）。不可输入负值。</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P183" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2713_17922340"/>设置多栏页面<text:bookmark-end text:name="__RefHeading___Toc2713_17922340"/></text:h>
@@ -44548,7 +44572,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P90">在最为常用的格式中——纵向的 A4 或者 <text:span text:style-name="T118">L</text:span>etter 纸张——您可能拥有最多 <text:span text:style-name="T122">4</text:span><text:span text:style-name="T112">–</text:span><text:span text:style-name="T122">5</text:span> 栏的空间<text:span text:style-name="T178">，除非它们中的一些非常窄。</text:span></text:p>
-   <text:list xml:id="list95609073459941" text:continue-list="list95607834706075" text:style-name="Note_20_-_20_Caution_20_Logo">
+   <text:list xml:id="list174346864740394" text:continue-list="list174346910786904" text:style-name="Note_20_-_20_Caution_20_Logo">
     <text:list-item>
      <text:p text:style-name="P227">注意</text:p>
     </text:list-item>
@@ -50256,7 +50280,7 @@
    <text:p text:style-name="P100">问题在于<text:span text:style-name="T182">，页面背景在功能上严重受限。一方面，它们只能覆盖页边距范围内的空间。您可以将所有页边距设置为 0，但是您将会需要一台支持出血打印（打印到纸张边缘的技术名称）的打印机。在绝大多数打印机上，您仍将得到纸张边缘 1 厘米左右的不可打印区域。这种不可打印区域严重限制了添加背景的有用性。</text:span></text:p>
    <text:p text:style-name="P100">另一方面<text:span text:style-name="T183">，在一篇打印的文档中，更换其默认的白色背景可能意味着更慢的打印速度和耗费更多墨水。一种更加有效的解决方式是在彩色纸上打印，尽管您可能会遇到精确适配每一批纸张的麻烦。</text:span></text:p>
    <text:p text:style-name="P101"><text:soft-page-break/>如果您忽略这些限制而继续<text:span text:style-name="T183">使用背景，其基本原则与段落或是任何其他可能使用背景的设计单元相同。参见第 </text:span><text:span text:style-name="T183"><text:reference-ref text:reference-format="page" text:ref-name="Highlighting and setting backgrounds">Error: Reference source not found</text:reference-ref></text:span><text:span text:style-name="T183"><text:s/>页“</text:span><text:span text:style-name="T183"><text:reference-ref text:reference-format="text" text:ref-name="Highlighting and setting backgrounds">Error: Reference source not found</text:reference-ref></text:span><text:span text:style-name="T183">”。</text:span></text:p>
-   <text:list xml:id="list95607972641145" text:continue-list="list95609002703556" text:style-name="Note_20_-_20_Tip_20_Logo">
+   <text:list xml:id="list174346777297222" text:continue-list="list174347788713317" text:style-name="Note_20_-_20_Tip_20_Logo">
     <text:list-item>
      <text:p text:style-name="P219">提示</text:p>
     </text:list-item>
@@ -50265,18 +50289,18 @@
    <text:p text:style-name="P136">如果发生了这种情形<text:span text:style-name="T183">，使用能够满足其需求的最小化边框——并且从不添加阴影，除非是为了得到一种复古的外观。</text:span></text:p>
    <text:h text:style-name="P183" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2721_17922340"/>使用重复出现的图像<text:bookmark-end text:name="__RefHeading___Toc2721_17922340"/></text:h>
    <text:p text:style-name="P123">LibreOffice 页面样式的最大弱点是它们只有有限的能力以用于在每次应用一种样式时包含一幅重复出现的图像，例如徽标。事实上，只有 4 种变通方式，其中的 3 种还不够理想：</text:p>
-   <text:list xml:id="list95609243210198" text:continue-list="list95609334924660" text:style-name="Bulleted">
+   <text:list xml:id="list174347875487367" text:continue-list="list174346278717657" text:style-name="Bulleted">
     <text:list-item>
      <text:p text:style-name="P168">将重复出现的图像置于页眉或页脚中<text:span text:style-name="T183">。在首页上，您甚至几乎可以以您想要的任何方式放置该图像，通过扩展页眉或页脚的高度。然而，此选项的有用性通常有限；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P253">将此图形与一种列表样式相关联<text:span text:style-name="T183">。您将会仍然需要在每一处应用此列表样式，并且您能够如何放置该图形会受到很大的限制。参见第 </text:span><text:span text:style-name="T183"><text:reference-ref text:reference-format="page" text:ref-name="Applying list styles">Error: Reference source not found</text:reference-ref></text:span><text:span text:style-name="T183"><text:s/>页“</text:span><text:span text:style-name="T183"><text:reference-ref text:reference-format="text" text:ref-name="Applying list styles">Error: Reference source not found</text:reference-ref></text:span><text:span text:style-name="T183">”；</text:span></text:p>
+     <text:p text:style-name="P272">将此图形与一种列表样式相关联<text:span text:style-name="T183">。您将会仍然需要在每一处应用此列表样式，并且您能够如何放置该图形会受到很大的限制。参见第 </text:span><text:span text:style-name="T183"><text:reference-ref text:reference-format="page" text:ref-name="Applying list styles">Error: Reference source not found</text:reference-ref></text:span><text:span text:style-name="T183"><text:s/>页“</text:span><text:span text:style-name="T183"><text:reference-ref text:reference-format="text" text:ref-name="Applying list styles">Error: Reference source not found</text:reference-ref></text:span><text:span text:style-name="T183">”；</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P168">添加一个图形背景<text:span text:style-name="T183">，使其所有背景与其他页面的颜色相同，并且将此图形放置于您希望其出现的位置。该图形没有文字环绕，因此您必须精心设计，以使得没有文字会出现在它们附近；</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P254"><text:span text:style-name="T134">将图像锚定到页眉或页脚中，但是将此图像放置于页眉或页脚之外，并且将锚定方式设置为“作为段落”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T139">As Paragraph</text:span></text:span><text:span text:style-name="T134">）或者“作为字符”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T139">As Character</text:span></text:span><text:span text:style-name="T134">）。然后您可</text:span><text:soft-page-break/><text:span text:style-name="T134">以将此图像放置于页面上的任何位置，并且它将会在每次应用此页面样式时被重复。这种策略通常是最为有效的。</text:span></text:p>
+     <text:p text:style-name="P273"><text:span text:style-name="T134">将图像锚定到页眉或页脚中，但是将此图像放置于页眉或页脚之外，并且将锚定方式设置为“作为段落”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T139">As Paragraph</text:span></text:span><text:span text:style-name="T134">）或者“作为字符”（</text:span><text:span text:style-name="Choice"><text:span text:style-name="T139">As Character</text:span></text:span><text:span text:style-name="T134">）。然后您可</text:span><text:soft-page-break/><text:span text:style-name="T134">以将此图像放置于页面上的任何位置，并且它将会在每次应用此页面样式时被重复。这种策略通常是最为有效的。</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P187" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc2723_17922340"/>进入新的领域<text:bookmark-end text:name="__RefHeading___Toc2723_17922340"/></text:h>

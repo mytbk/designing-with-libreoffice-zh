@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-03-19T16:13:20.292730306</meta:creation-date><meta:editing-duration>PT3M15S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/5.4.5.1$Linux_X86_64 LibreOffice_project/40m0$Build-1</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2018-03-05T00:08:57.465293839</dc:date><meta:document-statistic meta:table-count="5" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="93" meta:word-count="681" meta:character-count="1712" meta:non-whitespace-character-count="1602"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="designing-with-libreoffice.ott" meta:date="2018-03-04T23:39:39.839948066"/></office:meta>
+ <office:meta><meta:creation-date>2016-03-19T16:13:20.292730306</meta:creation-date><meta:editing-duration>PT3M21S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/5.4.6.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:title>designing-with-libreoffice</dc:title><meta:initial-creator>Bruce Byfield</meta:initial-creator><dc:date>2018-04-08T17:46:06.955142645</dc:date><meta:document-statistic meta:table-count="5" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="93" meta:word-count="681" meta:character-count="1712" meta:non-whitespace-character-count="1602"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="designing-with-libreoffice" xlink:href="designing-with-libreoffice.ott" meta:date="2018-04-08T17:39:11.155423830"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">27430</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17006</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">39090</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">20657</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16893</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14757</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">3747</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">27428</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">17004</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">39088</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">20655</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -100,7 +100,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">30215117</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">30320006</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -150,8 +150,8 @@
   <style:font-face style:name="Raleway2" svg:font-family="Raleway" style:font-adornments="Italic" style:font-pitch="variable"/>
   <style:font-face style:name="Raleway3" svg:font-family="Raleway" style:font-adornments="Light" style:font-pitch="variable"/>
   <style:font-face style:name="Raleway" svg:font-family="Raleway" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="思源宋体 CN Light1" svg:font-family="&apos;思源宋体 CN Light&apos;" style:font-adornments="Bold Italic" style:font-pitch="variable"/>
-  <style:font-face style:name="思源宋体 CN Light" svg:font-family="&apos;思源宋体 CN Light&apos;" style:font-adornments="Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="思源宋体 CN Light" svg:font-family="&apos;思源宋体 CN Light&apos;" style:font-adornments="Bold Italic" style:font-pitch="variable"/>
+  <style:font-face style:name="思源宋体 CN Light1" svg:font-family="&apos;思源宋体 CN Light&apos;" style:font-adornments="Italic" style:font-pitch="variable"/>
   <style:font-face style:name="思源宋体 CN Medium" svg:font-family="&apos;思源宋体 CN Medium&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
   <style:font-face style:name="思源黑体 CN Light" svg:font-family="&apos;思源黑体 CN Light&apos;" style:font-adornments="Light" style:font-pitch="variable"/>
   <style:font-face style:name="思源黑体 CN Medium" svg:font-family="&apos;思源黑体 CN Medium&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
@@ -575,7 +575,7 @@
      <style:tab-stop style:position="17.09cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-weight="normal" style:font-name-asian="思源黑体 CN Light" style:font-family-asian="&apos;思源黑体 CN Light&apos;" style:font-style-name-asian="Light" style:font-pitch-asian="variable" style:font-weight-asian="250"/>
+   <style:text-properties style:font-name="Raleway" fo:font-family="Raleway" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-weight="normal" style:font-name-asian="思源黑体 CN Light" style:font-family-asian="&apos;思源黑体 CN Light&apos;" style:font-style-name-asian="Light" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:font-weight-asian="250"/>
   </style:style>
   <style:style style:name="Index_20_Separator" style:display-name="Index Separator" style:family="paragraph" style:parent-style-name="Index" style:class="index">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
@@ -772,7 +772,7 @@
   <style:style style:name="Drawing" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
   <style:style style:name="Dedication" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="4.001cm" fo:margin-bottom="4.001cm" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
-   <style:text-properties fo:color="#000000" style:font-name="Fanwood Text" fo:font-family="&apos;Fanwood Text&apos;" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="思源宋体 CN Light1" style:font-family-asian="&apos;思源宋体 CN Light&apos;" style:font-style-name-asian="Bold Italic" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+   <style:text-properties fo:color="#000000" style:font-name="Fanwood Text" fo:font-family="&apos;Fanwood Text&apos;" style:font-style-name="Italic" style:font-pitch="variable" fo:font-style="italic" style:font-name-asian="思源宋体 CN Light" style:font-family-asian="&apos;思源宋体 CN Light&apos;" style:font-style-name-asian="Bold Italic" style:font-pitch-asian="variable" style:font-style-asian="italic" style:font-weight-asian="bold"/>
   </style:style>
   <style:style style:name="Table_20_Sub-Heading" style:display-name="Table Sub-Heading" style:family="paragraph" style:parent-style-name="Table_20_Heading">
    <style:text-properties fo:font-size="11pt" style:font-size-asian="10.5pt"/>
@@ -842,7 +842,7 @@
    <style:text-properties fo:color="#800000" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Emphasis" style:family="text">
-   <style:text-properties style:font-name="Fanwood1" fo:font-family="Fanwood" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" style:font-name-asian="思源宋体 CN Light" style:font-family-asian="&apos;思源宋体 CN Light&apos;" style:font-style-name-asian="Italic" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties style:font-name="Fanwood1" fo:font-family="Fanwood" style:font-style-name="Italic" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" style:font-name-asian="思源宋体 CN Light1" style:font-family-asian="&apos;思源宋体 CN Light&apos;" style:font-style-name-asian="Italic" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Untitled1" style:family="text" style:hidden="true" style:parent-style-name="Emphasis">
    <style:text-properties fo:font-size="12.5pt" style:font-size-asian="10.5pt"/>
@@ -8786,7 +8786,7 @@
    <style:table-column-properties style:column-width="0.958cm" style:rel-column-width="6043*"/>
   </style:style>
   <style:style style:name="Table309" style:family="table">
-   <style:table-properties style:width="10.478cm" fo:margin-top="0.265cm" fo:margin-bottom="0.265cm" fo:break-before="auto" fo:break-after="auto" table:align="margins" fo:keep-with-next="auto" style:may-break-between-rows="true" table:border-model="collapsing"/>
+   <style:table-properties style:width="10.478cm" fo:margin-top="0.265cm" fo:margin-bottom="0.265cm" fo:break-before="auto" fo:break-after="auto" table:align="margins" fo:keep-with-next="auto" style:may-break-between-rows="true" style:writing-mode="page" table:border-model="collapsing"/>
   </style:style>
   <style:style style:name="Table309.A" style:family="table-column">
    <style:table-column-properties style:column-width="4.168cm" style:rel-column-width="26069*"/>
@@ -8880,110 +8880,110 @@
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="00c4b2b8" officeooo:paragraph-rsid="01c9ddd4"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b94cb4" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00adcd7f" officeooo:paragraph-rsid="01c9ddd4"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b04d78" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00c68452" officeooo:paragraph-rsid="01c9ddd4"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00bc68c6" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b94cb4" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b6c709" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b04d78" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b23266" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00bc68c6" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00c1c0fb" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b6c709" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00c8f39f" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b23266" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0110206f" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00c1c0fb" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b86971" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00c8f39f" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b24837" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0110206f" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b12938" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b86971" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b87c76" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b24837" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b5229b" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b12938" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b317d9" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b87c76" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b13a67" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b5229b" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00bd97dd" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b317d9" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00c05e58" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b13a67" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b50639" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00bd97dd" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b31b45" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00c05e58" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b50639" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b31b45" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00bb9219" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Table_20_Heading">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:color="#008000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Raleway" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00b04d78" officeooo:paragraph-rsid="01c9ddd4" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="01c9ddd4"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Appendix_20_Letter" style:master-page-name="">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Appendix_20_Letter" style:master-page-name="">
    <style:paragraph-properties style:page-number="auto"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="00425105"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="00cd1b26" officeooo:paragraph-rsid="00cd1b26"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0011dbfd"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00adcd7f" officeooo:paragraph-rsid="01c9ddd4"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00c68452" officeooo:paragraph-rsid="01c9ddd4"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Footer_20_right">
    <style:text-properties officeooo:paragraph-rsid="00a8de17"/>
@@ -9200,325 +9200,325 @@
     <text:user-field-decl office:value-type="float" office:value="0" text:name="MD"/>
    </text:user-field-decls>
    <text:p text:style-name="P49">D</text:p>
-   <text:h text:style-name="P36" text:outline-level="1">用于替代标准字体的自由授权许可字体</text:h>
+   <text:h text:style-name="P38" text:outline-level="1">用于替代标准字体的自由授权许可字体</text:h>
    <text:p text:style-name="P12"><text:bookmark-start text:name="__RefHeading__491_7372207301"/>类似于 <text:span text:style-name="T12">GNU/</text:span>Linux 桌面<text:span text:style-name="T12">，自由授权许可字体最初也是模仿对应的私有字体。当今，原创的自由字体日渐普遍，但是对于私有字体的自由替代品的需求仍在。这种需求不太可能消失，由于尽管大多数专业设计师按照私有字体的套路进行思考，客户们通常不愿意花钱购买它们的授权许可。另一方面，自由软件倡导者更加倾向于使用自由字体来配合他们的自由应用程序。</text:span><text:bookmark-end text:name="__RefHeading__491_7372207301"/></text:p>
-   <text:p text:style-name="P41">完全一致的替代品很罕见，这是由于对版权限制的恐惧。高达 75% 的匹配也很罕见。某些替代品，诸如 Liberation 字体，只是格律上相当——即它们和对应的私有字体占用相同的空间，但是它们的字母本身并不相同。在其他情况下，自由字体受到对应的私有字体的启发，但是它们的设计者从未想过进行精确复刻，并且您所能期望得到的至多只是一种一般的相似性。少数私有字体诸如 Optima 则完全没有自由替代品，至少在我能找到的范围内是这样。基于此原因，下表所列出的项目主要是最为接近的替代品，而极少是精确的复刻。</text:p>
-   <text:p text:style-name="P42">所有这些字体都可以从附录 C 所列出的来源中找到。</text:p>
+   <text:p text:style-name="P15">完全一致的替代品很罕见，这是由于对版权限制的恐惧。高达 75% 的匹配也很罕见。某些替代品，诸如 Liberation 字体，只是格律上相当——即它们和对应的私有字体占用相同的空间，但是它们的字母本身并不相同。在其他情况下，自由字体受到对应的私有字体的启发，但是它们的设计者从未想过进行精确复刻，并且您所能期望得到的至多只是一种一般的相似性。少数私有字体诸如 Optima 则完全没有自由替代品，至少在我能找到的范围内是这样。基于此原因，下表所列出的项目主要是最为接近的替代品，而极少是精确的复刻。</text:p>
+   <text:p text:style-name="P16">所有这些字体都可以从附录 C 所列出的来源中找到。</text:p>
    <table:table table:name="Table309" table:style-name="Table309">
     <table:table-column table:style-name="Table309.A"/>
     <table:table-column table:style-name="Table309.B"/>
     <text:soft-page-break/>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P35">私有字体</text:p>
+      <text:p text:style-name="P37">私有字体</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P35">自由授权许可字体</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Alternate Gothic #1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">League Gothic</text:p>
+      <text:p text:style-name="P37">自由授权许可字体</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P16">Arial</text:p>
+      <text:p text:style-name="P17">Alternate Gothic #1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P16">Liberation Sans,* Pt Sans, Open Sans Condensed, Lato</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P17">Arial Narrow</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P17">Liberation Sans Narrow*</text:p>
+      <text:p text:style-name="P17">League Gothic</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P18">Avenir</text:p>
+      <text:p text:style-name="P18">Arial</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P18">Mint Spirit No2, <text:span text:style-name="T5">Nunito</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Baskerville</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Baskervald ADF Standard, <text:span text:style-name="T6">Libre Baskerville</text:span></text:p>
+      <text:p text:style-name="P18">Liberation Sans,* Pt Sans, Open Sans Condensed, Lato</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Bembo</text:p>
+      <text:p text:style-name="P19">Arial Narrow</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">EB Garamond</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P20">Bodoni</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P20">Accanthis-Std, Oranienbaum, <text:span text:style-name="T6">GFS Bodoni, Libre Bodoni</text:span></text:p>
+      <text:p text:style-name="P19">Liberation Sans Narrow*</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P21">Cambria</text:p>
+      <text:p text:style-name="P20">Avenir</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P21">Caladea*</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P21">Calibri</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P21">Carlito*</text:p>
+      <text:p text:style-name="P20">Mint Spirit No2, <text:span text:style-name="T5">Nunito</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P22">Caslon</text:p>
+      <text:p text:style-name="P21">Baskerville</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P22">Libre Caslon</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P23">Centaur</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P23">Coelacanth</text:p>
+      <text:p text:style-name="P21">Baskervald ADF Standard, <text:span text:style-name="T6">Libre Baskerville</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Century Gothic</text:p>
+      <text:p text:style-name="P17">Bembo</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Mul<text:span text:style-name="T7">i</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P24">Comic Sans</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P24">Comic Relief</text:p>
+      <text:p text:style-name="P17">EB Garamond</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P25">Courier</text:p>
+      <text:p text:style-name="P22">Bodoni</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P25">Liberation Mono*</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Courier 10 Pitch</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Courier Code</text:p>
+      <text:p text:style-name="P22">Accanthis-Std, Oranienbaum, <text:span text:style-name="T6">GFS Bodoni, Libre Bodoni</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Courier New</text:p>
+      <text:p text:style-name="P23">Cambria</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Cousine</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P22">Didot</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P22"><text:span text:style-name="Choice">GFS</text:span> Didot</text:p>
+      <text:p text:style-name="P23">Caladea*</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Eurostile</text:p>
+      <text:p text:style-name="P23">Calibri</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Jura</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P26">Frutiger</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P26">Istok Normal 400</text:p>
+      <text:p text:style-name="P23">Carlito*</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P27">Futura</text:p>
+      <text:p text:style-name="P24">Caslon</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P27">Mint Spirit No2, <text:span text:style-name="T5">Nunito</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Futura <text:span text:style-name="T8">Light</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Futura Renner Light</text:p>
+      <text:p text:style-name="P24">Libre Caslon</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P28">Garamond**</text:p>
+      <text:p text:style-name="P25">Centaur</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P28">Crimson Text, EB Garamond</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Georgia</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Nimbus Roman No. 9</text:p>
+      <text:p text:style-name="P25">Coelacanth</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P29">Gill Sans</text:p>
+      <text:p text:style-name="P17">Century Gothic</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P29">Cabin, Gillius ADF, Hammersmith <text:span text:style-name="T9">One</text:span>, <text:span text:style-name="T10">Railway</text:span> Regular, Raleway </text:p>
+      <text:p text:style-name="P17">Mul<text:span text:style-name="T7">i</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P26">Comic Sans</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P26">Comic Relief</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P27">Courier</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P27">Liberation Mono*</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Courier 10 Pitch</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Courier Code</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Courier New</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Cousine</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P24">Didot</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P24"><text:span text:style-name="Choice">GFS</text:span> Didot</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Eurostile</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Jura</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P28">Frutiger</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P28">Istok Normal 400</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P29">Futura</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P29">Mint Spirit No2, <text:span text:style-name="T5">Nunito</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P21">Futura <text:span text:style-name="T8">Light</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P21">Futura Renner Light</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P30">Garamond**</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P30">Crimson Text, EB Garamond</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P21">Georgia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P21">Nimbus Roman No. 9</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P31">Gill Sans</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P31">Cabin, Gillius ADF, Hammersmith <text:span text:style-name="T9">One</text:span>, <text:span text:style-name="T10">Railway</text:span> Regular, Raleway </text:p>
      </table:table-cell>
     </table:table-row>
     <text:soft-page-break/>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Goudy Old Style**</text:p>
+      <text:p text:style-name="P21">Goudy Old Style**</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Goudy Bookletter 1911, <text:span text:style-name="T11">Linden Hill, </text:span>Sort Mills</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P16">Helvetica</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P16">Liberation Sans,* Pt Sans, Open Sans Condensed, Lato</text:p>
+      <text:p text:style-name="P21">Goudy Bookletter 1911, <text:span text:style-name="T11">Linden Hill, </text:span>Sort Mills</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P30">Helvetica Narrow</text:p>
+      <text:p text:style-name="P18">Helvetica</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P30">Liberation Sans Narrow*</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P31">Joanna</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P31">Fanwood</text:p>
+      <text:p text:style-name="P18">Liberation Sans,* Pt Sans, Open Sans Condensed, Lato</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P32">Letter Gothic</text:p>
+      <text:p text:style-name="P32">Helvetica Narrow</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P32">Josefin Sans, Josefin Slab</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P24">Myriad</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P24">Junction, Pt. Sans</text:p>
+      <text:p text:style-name="P32">Liberation Sans Narrow*</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P28">News Gothic</text:p>
+      <text:p text:style-name="P33">Joanna</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P28">News Cycle</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Stone Sans</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Nunito</text:p>
+      <text:p text:style-name="P33">Fanwood</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Stone Serif</text:p>
+      <text:p text:style-name="P34">Letter Gothic</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Lustria</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P33">Tahoma</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P33">Lucida Sans, Nimbus Sans</text:p>
+      <text:p text:style-name="P34">Josefin Sans, Josefin Slab</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P16">Times New Roman</text:p>
+      <text:p text:style-name="P26">Myriad</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P34">Liberation Serif, Linux Libertine</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table309.1">
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Trajan</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P15">Cinzel</text:p>
+      <text:p text:style-name="P26">Junction, Pt. Sans</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P32">Univers</text:p>
+      <text:p text:style-name="P30">News Gothic</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P32">Universalist-std</text:p>
+      <text:p text:style-name="P30">News Cycle</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table309.1">
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">Verdana</text:p>
+      <text:p text:style-name="P17">Stone Sans</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table309.A1" office:value-type="string">
-      <text:p text:style-name="P19">DejaVu Sans</text:p>
+      <text:p text:style-name="P17">Nunito</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Stone Serif</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Lustria</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P35">Tahoma</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P35">Lucida Sans, Nimbus Sans</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P18">Times New Roman</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P36">Liberation Serif, Linux Libertine</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Trajan</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P17">Cinzel</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P34">Univers</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P34">Universalist-std</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table309.1">
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P21">Verdana</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table309.A1" office:value-type="string">
+      <text:p text:style-name="P21">DejaVu Sans</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
